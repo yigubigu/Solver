@@ -1,0 +1,3292 @@
+{
+  "Bins": [
+    {
+      "Item": [
+        {
+          "Order": 1,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 95,
+            "Height": 31,
+            "Width": 66
+          },
+          "PlaceCuboid": {
+            "Length": 95,
+            "Height": 31,
+            "Width": 66
+          }
+        },
+        {
+          "Order": 2,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 0,
+            "Z": 31
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 95,
+            "Height": 31,
+            "Width": 66
+          },
+          "PlaceCuboid": {
+            "Length": 95,
+            "Height": 31,
+            "Width": 66
+          }
+        },
+        {
+          "Order": 3,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 0,
+            "Z": 62
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 74,
+            "Height": 30,
+            "Width": 56
+          },
+          "PlaceCuboid": {
+            "Length": 74,
+            "Height": 30,
+            "Width": 56
+          }
+        },
+        {
+          "Order": 4,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 0,
+            "Z": 92
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 74,
+            "Height": 30,
+            "Width": 56
+          },
+          "PlaceCuboid": {
+            "Length": 74,
+            "Height": 30,
+            "Width": 56
+          }
+        },
+        {
+          "Order": 5,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 66,
+            "Z": 0
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 95,
+            "Height": 31,
+            "Width": 66
+          },
+          "PlaceCuboid": {
+            "Length": 95,
+            "Height": 31,
+            "Width": 66
+          }
+        },
+        {
+          "Order": 6,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 66,
+            "Z": 31
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 95,
+            "Height": 31,
+            "Width": 66
+          },
+          "PlaceCuboid": {
+            "Length": 95,
+            "Height": 31,
+            "Width": 66
+          }
+        },
+        {
+          "Order": 7,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 0,
+            "Y": 134,
+            "Z": 0
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 95,
+            "Height": 63,
+            "Width": 80
+          },
+          "PlaceCuboid": {
+            "Length": 80,
+            "Height": 63,
+            "Width": 95
+          }
+        },
+        {
+          "Order": 8,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 80,
+            "Y": 134,
+            "Z": 0
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 95,
+            "Height": 63,
+            "Width": 80
+          },
+          "PlaceCuboid": {
+            "Length": 80,
+            "Height": 63,
+            "Width": 95
+          }
+        },
+        {
+          "Order": 9,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 0,
+            "Y": 134,
+            "Z": 63
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 92,
+            "Height": 55,
+            "Width": 81
+          },
+          "PlaceCuboid": {
+            "Length": 81,
+            "Height": 55,
+            "Width": 92
+          }
+        },
+        {
+          "Order": 10,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 0,
+            "Y": 134,
+            "Z": 118
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 94,
+            "Height": 44,
+            "Width": 81
+          },
+          "PlaceCuboid": {
+            "Length": 81,
+            "Height": 44,
+            "Width": 94
+          }
+        },
+        {
+          "Order": 11,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 0,
+            "Y": 134,
+            "Z": 162
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 94,
+            "Height": 44,
+            "Width": 81
+          },
+          "PlaceCuboid": {
+            "Length": 81,
+            "Height": 44,
+            "Width": 94
+          }
+        },
+        {
+          "Order": 12,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 95,
+            "Y": 0,
+            "Z": 0
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 97,
+            "Height": 62,
+            "Width": 67
+          },
+          "PlaceCuboid": {
+            "Length": 97,
+            "Height": 62,
+            "Width": 67
+          }
+        },
+        {
+          "Order": 13,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 74,
+            "Y": 0,
+            "Z": 62
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 74,
+            "Height": 30,
+            "Width": 56
+          },
+          "PlaceCuboid": {
+            "Length": 74,
+            "Height": 30,
+            "Width": 56
+          }
+        },
+        {
+          "Order": 14,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 74,
+            "Y": 0,
+            "Z": 92
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 74,
+            "Height": 30,
+            "Width": 56
+          },
+          "PlaceCuboid": {
+            "Length": 74,
+            "Height": 30,
+            "Width": 56
+          }
+        },
+        {
+          "Order": 15,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 95,
+            "Y": 67,
+            "Z": 0
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 97,
+            "Height": 62,
+            "Width": 67
+          },
+          "PlaceCuboid": {
+            "Length": 97,
+            "Height": 62,
+            "Width": 67
+          }
+        },
+        {
+          "Order": 16,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 56,
+            "Z": 62
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 108,
+            "Height": 30,
+            "Width": 76
+          },
+          "PlaceCuboid": {
+            "Length": 108,
+            "Height": 30,
+            "Width": 76
+          }
+        },
+        {
+          "Order": 17,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 56,
+            "Z": 92
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 108,
+            "Height": 30,
+            "Width": 76
+          },
+          "PlaceCuboid": {
+            "Length": 108,
+            "Height": 30,
+            "Width": 76
+          }
+        },
+        {
+          "Order": 18,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 99,
+            "Z": 122
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 56,
+            "Height": 33,
+            "Width": 35
+          },
+          "PlaceCuboid": {
+            "Length": 56,
+            "Height": 33,
+            "Width": 35
+          }
+        },
+        {
+          "Order": 19,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 99,
+            "Z": 155
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 56,
+            "Height": 33,
+            "Width": 35
+          },
+          "PlaceCuboid": {
+            "Length": 56,
+            "Height": 33,
+            "Width": 35
+          }
+        },
+        {
+          "Order": 20,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 160,
+            "Y": 134,
+            "Z": 0
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 95,
+            "Height": 63,
+            "Width": 80
+          },
+          "PlaceCuboid": {
+            "Length": 80,
+            "Height": 63,
+            "Width": 95
+          }
+        },
+        {
+          "Order": 21,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 81,
+            "Y": 134,
+            "Z": 63
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 92,
+            "Height": 55,
+            "Width": 81
+          },
+          "PlaceCuboid": {
+            "Length": 81,
+            "Height": 55,
+            "Width": 92
+          }
+        },
+        {
+          "Order": 22,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 81,
+            "Y": 134,
+            "Z": 118
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 94,
+            "Height": 44,
+            "Width": 81
+          },
+          "PlaceCuboid": {
+            "Length": 81,
+            "Height": 44,
+            "Width": 94
+          }
+        },
+        {
+          "Order": 23,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 81,
+            "Y": 134,
+            "Z": 162
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 94,
+            "Height": 44,
+            "Width": 81
+          },
+          "PlaceCuboid": {
+            "Length": 81,
+            "Height": 44,
+            "Width": 94
+          }
+        },
+        {
+          "Order": 24,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 192,
+            "Y": 0,
+            "Z": 0
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 97,
+            "Height": 62,
+            "Width": 67
+          },
+          "PlaceCuboid": {
+            "Length": 97,
+            "Height": 62,
+            "Width": 67
+          }
+        },
+        {
+          "Order": 25,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 148,
+            "Y": 0,
+            "Z": 62
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 113,
+            "Height": 20,
+            "Width": 56
+          },
+          "PlaceCuboid": {
+            "Length": 113,
+            "Height": 20,
+            "Width": 56
+          }
+        },
+        {
+          "Order": 26,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 148,
+            "Y": 0,
+            "Z": 82
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 113,
+            "Height": 20,
+            "Width": 56
+          },
+          "PlaceCuboid": {
+            "Length": 113,
+            "Height": 20,
+            "Width": 56
+          }
+        },
+        {
+          "Order": 27,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 148,
+            "Y": 0,
+            "Z": 102
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 113,
+            "Height": 20,
+            "Width": 56
+          },
+          "PlaceCuboid": {
+            "Length": 113,
+            "Height": 20,
+            "Width": 56
+          }
+        },
+        {
+          "Order": 28,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 192,
+            "Y": 67,
+            "Z": 0
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 97,
+            "Height": 62,
+            "Width": 67
+          },
+          "PlaceCuboid": {
+            "Length": 97,
+            "Height": 62,
+            "Width": 67
+          }
+        },
+        {
+          "Order": 29,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 108,
+            "Y": 56,
+            "Z": 62
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 108,
+            "Height": 30,
+            "Width": 76
+          },
+          "PlaceCuboid": {
+            "Length": 108,
+            "Height": 30,
+            "Width": 76
+          }
+        },
+        {
+          "Order": 30,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 108,
+            "Y": 56,
+            "Z": 92
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 108,
+            "Height": 30,
+            "Width": 76
+          },
+          "PlaceCuboid": {
+            "Length": 108,
+            "Height": 30,
+            "Width": 76
+          }
+        },
+        {
+          "Order": 31,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 0,
+            "Z": 122
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 120,
+            "Height": 73,
+            "Width": 99
+          },
+          "PlaceCuboid": {
+            "Length": 120,
+            "Height": 73,
+            "Width": 99
+          }
+        },
+        {
+          "Order": 32,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 0,
+            "Z": 195
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 71,
+            "Height": 25,
+            "Width": 32
+          },
+          "PlaceCuboid": {
+            "Length": 71,
+            "Height": 25,
+            "Width": 32
+          }
+        },
+        {
+          "Order": 33,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 32,
+            "Z": 195
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 71,
+            "Height": 25,
+            "Width": 32
+          },
+          "PlaceCuboid": {
+            "Length": 71,
+            "Height": 25,
+            "Width": 32
+          }
+        },
+        {
+          "Order": 34,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 64,
+            "Z": 195
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 36,
+            "Height": 25,
+            "Width": 34
+          },
+          "PlaceCuboid": {
+            "Length": 36,
+            "Height": 25,
+            "Width": 34
+          }
+        },
+        {
+          "Order": 35,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 36,
+            "Y": 64,
+            "Z": 195
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 36,
+            "Height": 25,
+            "Width": 34
+          },
+          "PlaceCuboid": {
+            "Length": 36,
+            "Height": 25,
+            "Width": 34
+          }
+        },
+        {
+          "Order": 36,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 56,
+            "Y": 99,
+            "Z": 122
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 56,
+            "Height": 33,
+            "Width": 35
+          },
+          "PlaceCuboid": {
+            "Length": 56,
+            "Height": 33,
+            "Width": 35
+          }
+        },
+        {
+          "Order": 37,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 56,
+            "Y": 99,
+            "Z": 155
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 56,
+            "Height": 33,
+            "Width": 35
+          },
+          "PlaceCuboid": {
+            "Length": 56,
+            "Height": 33,
+            "Width": 35
+          }
+        },
+        {
+          "Order": 38,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 99,
+            "Z": 188
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 93,
+            "Height": 31,
+            "Width": 31
+          },
+          "PlaceCuboid": {
+            "Length": 93,
+            "Height": 31,
+            "Width": 31
+          }
+        },
+        {
+          "Order": 39,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 72,
+            "Y": 64,
+            "Z": 195
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 36,
+            "Height": 25,
+            "Width": 34
+          },
+          "PlaceCuboid": {
+            "Length": 36,
+            "Height": 25,
+            "Width": 34
+          }
+        },
+        {
+          "Order": 40,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 112,
+            "Y": 99,
+            "Z": 122
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 56,
+            "Height": 33,
+            "Width": 35
+          },
+          "PlaceCuboid": {
+            "Length": 56,
+            "Height": 33,
+            "Width": 35
+          }
+        },
+        {
+          "Order": 41,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 112,
+            "Y": 99,
+            "Z": 155
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 56,
+            "Height": 33,
+            "Width": 35
+          },
+          "PlaceCuboid": {
+            "Length": 56,
+            "Height": 33,
+            "Width": 35
+          }
+        },
+        {
+          "Order": 42,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 93,
+            "Y": 99,
+            "Z": 188
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 93,
+            "Height": 31,
+            "Width": 31
+          },
+          "PlaceCuboid": {
+            "Length": 93,
+            "Height": 31,
+            "Width": 31
+          }
+        },
+        {
+          "Order": 43,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 240,
+            "Y": 134,
+            "Z": 0
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 95,
+            "Height": 63,
+            "Width": 80
+          },
+          "PlaceCuboid": {
+            "Length": 80,
+            "Height": 63,
+            "Width": 95
+          }
+        },
+        {
+          "Order": 44,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 162,
+            "Y": 134,
+            "Z": 63
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 104,
+            "Height": 65,
+            "Width": 74
+          },
+          "PlaceCuboid": {
+            "Length": 104,
+            "Height": 65,
+            "Width": 74
+          }
+        },
+        {
+          "Order": 45,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 162,
+            "Y": 134,
+            "Z": 128
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 104,
+            "Height": 65,
+            "Width": 74
+          },
+          "PlaceCuboid": {
+            "Length": 104,
+            "Height": 65,
+            "Width": 74
+          }
+        },
+        {
+          "Order": 46,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 162,
+            "Y": 134,
+            "Z": 193
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 87,
+            "Height": 26,
+            "Width": 83
+          },
+          "PlaceCuboid": {
+            "Length": 87,
+            "Height": 26,
+            "Width": 83
+          }
+        },
+        {
+          "Order": 47,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 289,
+            "Y": 0,
+            "Z": 0
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 97,
+            "Height": 62,
+            "Width": 67
+          },
+          "PlaceCuboid": {
+            "Length": 97,
+            "Height": 62,
+            "Width": 67
+          }
+        },
+        {
+          "Order": 48,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 261,
+            "Y": 0,
+            "Z": 62
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 113,
+            "Height": 20,
+            "Width": 56
+          },
+          "PlaceCuboid": {
+            "Length": 113,
+            "Height": 20,
+            "Width": 56
+          }
+        },
+        {
+          "Order": 49,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 261,
+            "Y": 0,
+            "Z": 82
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 113,
+            "Height": 20,
+            "Width": 56
+          },
+          "PlaceCuboid": {
+            "Length": 113,
+            "Height": 20,
+            "Width": 56
+          }
+        },
+        {
+          "Order": 50,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 261,
+            "Y": 0,
+            "Z": 102
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 113,
+            "Height": 20,
+            "Width": 56
+          },
+          "PlaceCuboid": {
+            "Length": 113,
+            "Height": 20,
+            "Width": 56
+          }
+        },
+        {
+          "Order": 51,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 289,
+            "Y": 67,
+            "Z": 0
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 97,
+            "Height": 62,
+            "Width": 67
+          },
+          "PlaceCuboid": {
+            "Length": 97,
+            "Height": 62,
+            "Width": 67
+          }
+        },
+        {
+          "Order": 52,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 216,
+            "Y": 56,
+            "Z": 62
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 108,
+            "Height": 30,
+            "Width": 76
+          },
+          "PlaceCuboid": {
+            "Length": 108,
+            "Height": 30,
+            "Width": 76
+          }
+        },
+        {
+          "Order": 53,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 216,
+            "Y": 56,
+            "Z": 92
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 108,
+            "Height": 30,
+            "Width": 76
+          },
+          "PlaceCuboid": {
+            "Length": 108,
+            "Height": 30,
+            "Width": 76
+          }
+        },
+        {
+          "Order": 54,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 120,
+            "Y": 0,
+            "Z": 122
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 120,
+            "Height": 73,
+            "Width": 99
+          },
+          "PlaceCuboid": {
+            "Length": 120,
+            "Height": 73,
+            "Width": 99
+          }
+        },
+        {
+          "Order": 55,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 71,
+            "Y": 0,
+            "Z": 195
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 71,
+            "Height": 25,
+            "Width": 32
+          },
+          "PlaceCuboid": {
+            "Length": 71,
+            "Height": 25,
+            "Width": 32
+          }
+        },
+        {
+          "Order": 56,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 71,
+            "Y": 32,
+            "Z": 195
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 71,
+            "Height": 25,
+            "Width": 32
+          },
+          "PlaceCuboid": {
+            "Length": 71,
+            "Height": 25,
+            "Width": 32
+          }
+        },
+        {
+          "Order": 57,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 108,
+            "Y": 64,
+            "Z": 195
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 36,
+            "Height": 25,
+            "Width": 34
+          },
+          "PlaceCuboid": {
+            "Length": 36,
+            "Height": 25,
+            "Width": 34
+          }
+        },
+        {
+          "Order": 58,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 142,
+            "Y": 0,
+            "Z": 195
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 71,
+            "Height": 25,
+            "Width": 32
+          },
+          "PlaceCuboid": {
+            "Length": 71,
+            "Height": 25,
+            "Width": 32
+          }
+        },
+        {
+          "Order": 59,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 142,
+            "Y": 32,
+            "Z": 195
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 71,
+            "Height": 25,
+            "Width": 32
+          },
+          "PlaceCuboid": {
+            "Length": 71,
+            "Height": 25,
+            "Width": 32
+          }
+        },
+        {
+          "Order": 60,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 144,
+            "Y": 64,
+            "Z": 195
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 36,
+            "Height": 25,
+            "Width": 34
+          },
+          "PlaceCuboid": {
+            "Length": 36,
+            "Height": 25,
+            "Width": 34
+          }
+        },
+        {
+          "Order": 61,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 180,
+            "Y": 64,
+            "Z": 195
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 36,
+            "Height": 25,
+            "Width": 34
+          },
+          "PlaceCuboid": {
+            "Length": 36,
+            "Height": 25,
+            "Width": 34
+          }
+        },
+        {
+          "Order": 62,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 186,
+            "Y": 99,
+            "Z": 122
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 81,
+            "Height": 28,
+            "Width": 33
+          },
+          "PlaceCuboid": {
+            "Length": 81,
+            "Height": 28,
+            "Width": 33
+          }
+        },
+        {
+          "Order": 63,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 186,
+            "Y": 99,
+            "Z": 150
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 81,
+            "Height": 28,
+            "Width": 33
+          },
+          "PlaceCuboid": {
+            "Length": 81,
+            "Height": 28,
+            "Width": 33
+          }
+        },
+        {
+          "Order": 64,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 216,
+            "Y": 0,
+            "Z": 195
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 33,
+            "Height": 23,
+            "Width": 25
+          },
+          "PlaceCuboid": {
+            "Length": 25,
+            "Height": 23,
+            "Width": 33
+          }
+        },
+        {
+          "Order": 65,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 216,
+            "Y": 33,
+            "Z": 195
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 33,
+            "Height": 23,
+            "Width": 25
+          },
+          "PlaceCuboid": {
+            "Length": 25,
+            "Height": 23,
+            "Width": 33
+          }
+        },
+        {
+          "Order": 66,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 216,
+            "Y": 66,
+            "Z": 195
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 33,
+            "Height": 23,
+            "Width": 25
+          },
+          "PlaceCuboid": {
+            "Length": 25,
+            "Height": 23,
+            "Width": 33
+          }
+        },
+        {
+          "Order": 67,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 241,
+            "Y": 0,
+            "Z": 122
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 98,
+            "Height": 46,
+            "Width": 72
+          },
+          "PlaceCuboid": {
+            "Length": 72,
+            "Height": 46,
+            "Width": 98
+          }
+        },
+        {
+          "Order": 68,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 241,
+            "Y": 0,
+            "Z": 168
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 98,
+            "Height": 46,
+            "Width": 72
+          },
+          "PlaceCuboid": {
+            "Length": 72,
+            "Height": 46,
+            "Width": 98
+          }
+        },
+        {
+          "Order": 69,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 320,
+            "Y": 134,
+            "Z": 0
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 95,
+            "Height": 63,
+            "Width": 80
+          },
+          "PlaceCuboid": {
+            "Length": 80,
+            "Height": 63,
+            "Width": 95
+          }
+        },
+        {
+          "Order": 70,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 266,
+            "Y": 134,
+            "Z": 63
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 104,
+            "Height": 65,
+            "Width": 74
+          },
+          "PlaceCuboid": {
+            "Length": 104,
+            "Height": 65,
+            "Width": 74
+          }
+        },
+        {
+          "Order": 71,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 266,
+            "Y": 134,
+            "Z": 128
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 104,
+            "Height": 65,
+            "Width": 74
+          },
+          "PlaceCuboid": {
+            "Length": 104,
+            "Height": 65,
+            "Width": 74
+          }
+        },
+        {
+          "Order": 72,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 249,
+            "Y": 134,
+            "Z": 193
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 87,
+            "Height": 26,
+            "Width": 83
+          },
+          "PlaceCuboid": {
+            "Length": 87,
+            "Height": 26,
+            "Width": 83
+          }
+        },
+        {
+          "Order": 73,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 324,
+            "Y": 56,
+            "Z": 62
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 74,
+            "Height": 30,
+            "Width": 56
+          },
+          "PlaceCuboid": {
+            "Length": 56,
+            "Height": 30,
+            "Width": 74
+          }
+        },
+        {
+          "Order": 74,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 324,
+            "Y": 56,
+            "Z": 92
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 74,
+            "Height": 30,
+            "Width": 56
+          },
+          "PlaceCuboid": {
+            "Length": 56,
+            "Height": 30,
+            "Width": 74
+          }
+        },
+        {
+          "Order": 75,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 267,
+            "Y": 99,
+            "Z": 122
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 81,
+            "Height": 28,
+            "Width": 33
+          },
+          "PlaceCuboid": {
+            "Length": 81,
+            "Height": 28,
+            "Width": 33
+          }
+        },
+        {
+          "Order": 76,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 267,
+            "Y": 99,
+            "Z": 150
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 81,
+            "Height": 28,
+            "Width": 33
+          },
+          "PlaceCuboid": {
+            "Length": 81,
+            "Height": 28,
+            "Width": 33
+          }
+        },
+        {
+          "Order": 77,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 186,
+            "Y": 99,
+            "Z": 178
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 93,
+            "Height": 31,
+            "Width": 31
+          },
+          "PlaceCuboid": {
+            "Length": 93,
+            "Height": 31,
+            "Width": 31
+          }
+        },
+        {
+          "Order": 78,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 279,
+            "Y": 99,
+            "Z": 178
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 81,
+            "Height": 28,
+            "Width": 33
+          },
+          "PlaceCuboid": {
+            "Length": 81,
+            "Height": 28,
+            "Width": 33
+          }
+        },
+        {
+          "Order": 79,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 313,
+            "Y": 0,
+            "Z": 122
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 98,
+            "Height": 46,
+            "Width": 72
+          },
+          "PlaceCuboid": {
+            "Length": 72,
+            "Height": 46,
+            "Width": 98
+          }
+        },
+        {
+          "Order": 80,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 313,
+            "Y": 0,
+            "Z": 168
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 98,
+            "Height": 46,
+            "Width": 72
+          },
+          "PlaceCuboid": {
+            "Length": 72,
+            "Height": 46,
+            "Width": 98
+          }
+        },
+        {
+          "Order": 81,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 336,
+            "Y": 134,
+            "Z": 193
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 71,
+            "Height": 25,
+            "Width": 32
+          },
+          "PlaceCuboid": {
+            "Length": 32,
+            "Height": 25,
+            "Width": 71
+          }
+        },
+        {
+          "Order": 82,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 336,
+            "Y": 208,
+            "Z": 63
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 33,
+            "Height": 23,
+            "Width": 25
+          },
+          "PlaceCuboid": {
+            "Length": 33,
+            "Height": 23,
+            "Width": 25
+          }
+        },
+        {
+          "Order": 83,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 370,
+            "Y": 134,
+            "Z": 63
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 95,
+            "Height": 26,
+            "Width": 27
+          },
+          "PlaceCuboid": {
+            "Length": 27,
+            "Height": 26,
+            "Width": 95
+          }
+        },
+        {
+          "Order": 84,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 370,
+            "Y": 134,
+            "Z": 89
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 95,
+            "Height": 26,
+            "Width": 27
+          },
+          "PlaceCuboid": {
+            "Length": 27,
+            "Height": 26,
+            "Width": 95
+          }
+        },
+        {
+          "Order": 85,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 370,
+            "Y": 134,
+            "Z": 115
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 95,
+            "Height": 26,
+            "Width": 27
+          },
+          "PlaceCuboid": {
+            "Length": 27,
+            "Height": 26,
+            "Width": 95
+          }
+        },
+        {
+          "Order": 86,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 370,
+            "Y": 134,
+            "Z": 141
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 95,
+            "Height": 26,
+            "Width": 27
+          },
+          "PlaceCuboid": {
+            "Length": 27,
+            "Height": 26,
+            "Width": 95
+          }
+        },
+        {
+          "Order": 87,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 386,
+            "Y": 0,
+            "Z": 0
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 111,
+            "Height": 48,
+            "Width": 70
+          },
+          "PlaceCuboid": {
+            "Length": 111,
+            "Height": 48,
+            "Width": 70
+          }
+        },
+        {
+          "Order": 88,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 386,
+            "Y": 0,
+            "Z": 48
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 111,
+            "Height": 48,
+            "Width": 70
+          },
+          "PlaceCuboid": {
+            "Length": 111,
+            "Height": 48,
+            "Width": 70
+          }
+        },
+        {
+          "Order": 89,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 386,
+            "Y": 0,
+            "Z": 96
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 111,
+            "Height": 48,
+            "Width": 70
+          },
+          "PlaceCuboid": {
+            "Length": 111,
+            "Height": 48,
+            "Width": 70
+          }
+        },
+        {
+          "Order": 90,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 386,
+            "Y": 0,
+            "Z": 144
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 111,
+            "Height": 48,
+            "Width": 70
+          },
+          "PlaceCuboid": {
+            "Length": 111,
+            "Height": 48,
+            "Width": 70
+          }
+        },
+        {
+          "Order": 91,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 386,
+            "Y": 0,
+            "Z": 192
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 87,
+            "Height": 26,
+            "Width": 83
+          },
+          "PlaceCuboid": {
+            "Length": 87,
+            "Height": 26,
+            "Width": 83
+          }
+        },
+        {
+          "Order": 92,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 386,
+            "Y": 70,
+            "Z": 0
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 60,
+            "Height": 41,
+            "Width": 55
+          },
+          "PlaceCuboid": {
+            "Length": 55,
+            "Height": 41,
+            "Width": 60
+          }
+        },
+        {
+          "Order": 93,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 386,
+            "Y": 70,
+            "Z": 41
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 60,
+            "Height": 41,
+            "Width": 55
+          },
+          "PlaceCuboid": {
+            "Length": 55,
+            "Height": 41,
+            "Width": 60
+          }
+        },
+        {
+          "Order": 94,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 386,
+            "Y": 70,
+            "Z": 82
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 60,
+            "Height": 41,
+            "Width": 55
+          },
+          "PlaceCuboid": {
+            "Length": 55,
+            "Height": 41,
+            "Width": 60
+          }
+        },
+        {
+          "Order": 95,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 386,
+            "Y": 70,
+            "Z": 123
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 60,
+            "Height": 41,
+            "Width": 55
+          },
+          "PlaceCuboid": {
+            "Length": 55,
+            "Height": 41,
+            "Width": 60
+          }
+        },
+        {
+          "Order": 96,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 386,
+            "Y": 83,
+            "Z": 164
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 52,
+            "Height": 36,
+            "Width": 41
+          },
+          "PlaceCuboid": {
+            "Length": 52,
+            "Height": 36,
+            "Width": 41
+          }
+        },
+        {
+          "Order": 97,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 400,
+            "Y": 130,
+            "Z": 0
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 92,
+            "Height": 55,
+            "Width": 81
+          },
+          "PlaceCuboid": {
+            "Length": 92,
+            "Height": 55,
+            "Width": 81
+          }
+        },
+        {
+          "Order": 98,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 400,
+            "Y": 130,
+            "Z": 55
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 92,
+            "Height": 55,
+            "Width": 81
+          },
+          "PlaceCuboid": {
+            "Length": 92,
+            "Height": 55,
+            "Width": 81
+          }
+        },
+        {
+          "Order": 99,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 400,
+            "Y": 130,
+            "Z": 110
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 92,
+            "Height": 55,
+            "Width": 81
+          },
+          "PlaceCuboid": {
+            "Length": 92,
+            "Height": 55,
+            "Width": 81
+          }
+        },
+        {
+          "Order": 100,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 400,
+            "Y": 130,
+            "Z": 165
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 87,
+            "Height": 26,
+            "Width": 83
+          },
+          "PlaceCuboid": {
+            "Length": 87,
+            "Height": 26,
+            "Width": 83
+          }
+        },
+        {
+          "Order": 101,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 400,
+            "Y": 130,
+            "Z": 191
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 87,
+            "Height": 26,
+            "Width": 83
+          },
+          "PlaceCuboid": {
+            "Length": 87,
+            "Height": 26,
+            "Width": 83
+          }
+        },
+        {
+          "Order": 102,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 441,
+            "Y": 83,
+            "Z": 0
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 110,
+            "Height": 25,
+            "Width": 43
+          },
+          "PlaceCuboid": {
+            "Length": 110,
+            "Height": 25,
+            "Width": 43
+          }
+        },
+        {
+          "Order": 103,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 441,
+            "Y": 83,
+            "Z": 25
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 110,
+            "Height": 25,
+            "Width": 43
+          },
+          "PlaceCuboid": {
+            "Length": 110,
+            "Height": 25,
+            "Width": 43
+          }
+        },
+        {
+          "Order": 104,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 441,
+            "Y": 83,
+            "Z": 50
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 110,
+            "Height": 25,
+            "Width": 43
+          },
+          "PlaceCuboid": {
+            "Length": 110,
+            "Height": 25,
+            "Width": 43
+          }
+        },
+        {
+          "Order": 105,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 441,
+            "Y": 83,
+            "Z": 75
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 110,
+            "Height": 25,
+            "Width": 43
+          },
+          "PlaceCuboid": {
+            "Length": 110,
+            "Height": 25,
+            "Width": 43
+          }
+        },
+        {
+          "Order": 106,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 441,
+            "Y": 83,
+            "Z": 100
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 52,
+            "Height": 36,
+            "Width": 41
+          },
+          "PlaceCuboid": {
+            "Length": 52,
+            "Height": 36,
+            "Width": 41
+          }
+        },
+        {
+          "Order": 107,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 441,
+            "Y": 83,
+            "Z": 136
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 52,
+            "Height": 36,
+            "Width": 41
+          },
+          "PlaceCuboid": {
+            "Length": 52,
+            "Height": 36,
+            "Width": 41
+          }
+        },
+        {
+          "Order": 108,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 441,
+            "Y": 83,
+            "Z": 172
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 52,
+            "Height": 36,
+            "Width": 41
+          },
+          "PlaceCuboid": {
+            "Length": 52,
+            "Height": 36,
+            "Width": 41
+          }
+        },
+        {
+          "Order": 109,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 492,
+            "Y": 126,
+            "Z": 0
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 96,
+            "Height": 49,
+            "Width": 95
+          },
+          "PlaceCuboid": {
+            "Length": 95,
+            "Height": 49,
+            "Width": 96
+          }
+        },
+        {
+          "Order": 110,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 492,
+            "Y": 126,
+            "Z": 49
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 96,
+            "Height": 49,
+            "Width": 95
+          },
+          "PlaceCuboid": {
+            "Length": 95,
+            "Height": 49,
+            "Width": 96
+          }
+        },
+        {
+          "Order": 111,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 492,
+            "Y": 126,
+            "Z": 98
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 96,
+            "Height": 49,
+            "Width": 95
+          },
+          "PlaceCuboid": {
+            "Length": 95,
+            "Height": 49,
+            "Width": 96
+          }
+        },
+        {
+          "Order": 112,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 492,
+            "Y": 126,
+            "Z": 147
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 104,
+            "Height": 34,
+            "Width": 78
+          },
+          "PlaceCuboid": {
+            "Length": 78,
+            "Height": 34,
+            "Width": 104
+          }
+        },
+        {
+          "Order": 113,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 1,
+          "Position": {
+            "X": 492,
+            "Y": 126,
+            "Z": 181
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 104,
+            "Height": 34,
+            "Width": 78
+          },
+          "PlaceCuboid": {
+            "Length": 78,
+            "Height": 34,
+            "Width": 104
+          }
+        },
+        {
+          "Order": 114,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 493,
+            "Y": 83,
+            "Z": 100
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 41,
+            "Height": 38,
+            "Width": 39
+          },
+          "PlaceCuboid": {
+            "Length": 41,
+            "Height": 38,
+            "Width": 39
+          }
+        },
+        {
+          "Order": 115,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 493,
+            "Y": 83,
+            "Z": 138
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 41,
+            "Height": 38,
+            "Width": 39
+          },
+          "PlaceCuboid": {
+            "Length": 41,
+            "Height": 38,
+            "Width": 39
+          }
+        },
+        {
+          "Order": 116,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 493,
+            "Y": 83,
+            "Z": 176
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 41,
+            "Height": 38,
+            "Width": 39
+          },
+          "PlaceCuboid": {
+            "Length": 41,
+            "Height": 38,
+            "Width": 39
+          }
+        },
+        {
+          "Order": 117,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 497,
+            "Y": 0,
+            "Z": 0
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 83,
+            "Height": 46,
+            "Width": 77
+          },
+          "PlaceCuboid": {
+            "Length": 83,
+            "Height": 46,
+            "Width": 77
+          }
+        },
+        {
+          "Order": 118,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 497,
+            "Y": 0,
+            "Z": 46
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 83,
+            "Height": 46,
+            "Width": 77
+          },
+          "PlaceCuboid": {
+            "Length": 83,
+            "Height": 46,
+            "Width": 77
+          }
+        },
+        {
+          "Order": 119,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 497,
+            "Y": 0,
+            "Z": 92
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 83,
+            "Height": 46,
+            "Width": 77
+          },
+          "PlaceCuboid": {
+            "Length": 83,
+            "Height": 46,
+            "Width": 77
+          }
+        },
+        {
+          "Order": 120,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 497,
+            "Y": 0,
+            "Z": 138
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 87,
+            "Height": 26,
+            "Width": 83
+          },
+          "PlaceCuboid": {
+            "Length": 87,
+            "Height": 26,
+            "Width": 83
+          }
+        },
+        {
+          "Order": 121,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 497,
+            "Y": 0,
+            "Z": 164
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 87,
+            "Height": 26,
+            "Width": 83
+          },
+          "PlaceCuboid": {
+            "Length": 87,
+            "Height": 26,
+            "Width": 83
+          }
+        },
+        {
+          "Order": 122,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 497,
+            "Y": 0,
+            "Z": 190
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 88,
+            "Height": 30,
+            "Width": 68
+          },
+          "PlaceCuboid": {
+            "Length": 88,
+            "Height": 30,
+            "Width": 68
+          }
+        },
+        {
+          "Order": 123,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 551,
+            "Y": 83,
+            "Z": 0
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 36,
+            "Height": 25,
+            "Width": 34
+          },
+          "PlaceCuboid": {
+            "Length": 36,
+            "Height": 25,
+            "Width": 34
+          }
+        },
+        {
+          "Order": 124,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 551,
+            "Y": 83,
+            "Z": 25
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 36,
+            "Height": 25,
+            "Width": 34
+          },
+          "PlaceCuboid": {
+            "Length": 36,
+            "Height": 25,
+            "Width": 34
+          }
+        }
+      ],
+      "Volume": 2.6273705E7,
+      "Bin": {
+        "Length": 587,
+        "Height": 220,
+        "Width": 233
+      }
+    },
+    {
+      "Item": [
+        {
+          "Order": 1,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 85,
+            "Height": 30,
+            "Width": 84
+          },
+          "PlaceCuboid": {
+            "Length": 85,
+            "Height": 30,
+            "Width": 84
+          }
+        },
+        {
+          "Order": 2,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 0,
+            "Z": 30
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 85,
+            "Height": 30,
+            "Width": 84
+          },
+          "PlaceCuboid": {
+            "Length": 85,
+            "Height": 30,
+            "Width": 84
+          }
+        },
+        {
+          "Order": 3,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 0,
+            "Z": 60
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 85,
+            "Height": 30,
+            "Width": 84
+          },
+          "PlaceCuboid": {
+            "Length": 85,
+            "Height": 30,
+            "Width": 84
+          }
+        },
+        {
+          "Order": 4,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 0,
+            "Z": 90
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 85,
+            "Height": 30,
+            "Width": 84
+          },
+          "PlaceCuboid": {
+            "Length": 85,
+            "Height": 30,
+            "Width": 84
+          }
+        },
+        {
+          "Order": 5,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 0,
+            "Z": 120
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 85,
+            "Height": 30,
+            "Width": 84
+          },
+          "PlaceCuboid": {
+            "Length": 85,
+            "Height": 30,
+            "Width": 84
+          }
+        },
+        {
+          "Order": 6,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 0,
+            "Z": 150
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 104,
+            "Height": 65,
+            "Width": 74
+          },
+          "PlaceCuboid": {
+            "Length": 104,
+            "Height": 65,
+            "Width": 74
+          }
+        },
+        {
+          "Order": 7,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 84,
+            "Z": 0
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 80,
+            "Height": 29,
+            "Width": 65
+          },
+          "PlaceCuboid": {
+            "Length": 80,
+            "Height": 29,
+            "Width": 65
+          }
+        },
+        {
+          "Order": 8,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 84,
+            "Z": 29
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 80,
+            "Height": 29,
+            "Width": 65
+          },
+          "PlaceCuboid": {
+            "Length": 80,
+            "Height": 29,
+            "Width": 65
+          }
+        },
+        {
+          "Order": 9,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 84,
+            "Z": 58
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 80,
+            "Height": 29,
+            "Width": 65
+          },
+          "PlaceCuboid": {
+            "Length": 80,
+            "Height": 29,
+            "Width": 65
+          }
+        },
+        {
+          "Order": 10,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 84,
+            "Z": 87
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 88,
+            "Height": 30,
+            "Width": 68
+          },
+          "PlaceCuboid": {
+            "Length": 88,
+            "Height": 30,
+            "Width": 68
+          }
+        },
+        {
+          "Order": 11,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 84,
+            "Z": 117
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 88,
+            "Height": 30,
+            "Width": 68
+          },
+          "PlaceCuboid": {
+            "Length": 88,
+            "Height": 30,
+            "Width": 68
+          }
+        },
+        {
+          "Order": 12,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 84,
+            "Z": 147
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 98,
+            "Height": 46,
+            "Width": 72
+          },
+          "PlaceCuboid": {
+            "Length": 98,
+            "Height": 46,
+            "Width": 72
+          }
+        },
+        {
+          "Order": 13,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 84,
+            "Z": 193
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 113,
+            "Height": 20,
+            "Width": 56
+          },
+          "PlaceCuboid": {
+            "Length": 113,
+            "Height": 20,
+            "Width": 56
+          }
+        },
+        {
+          "Order": 14,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 156,
+            "Z": 0
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 108,
+            "Height": 30,
+            "Width": 76
+          },
+          "PlaceCuboid": {
+            "Length": 108,
+            "Height": 30,
+            "Width": 76
+          }
+        },
+        {
+          "Order": 15,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 156,
+            "Z": 30
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 95,
+            "Height": 31,
+            "Width": 66
+          },
+          "PlaceCuboid": {
+            "Length": 95,
+            "Height": 31,
+            "Width": 66
+          }
+        },
+        {
+          "Order": 16,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 156,
+            "Z": 61
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 60,
+            "Height": 41,
+            "Width": 55
+          },
+          "PlaceCuboid": {
+            "Length": 60,
+            "Height": 41,
+            "Width": 55
+          }
+        },
+        {
+          "Order": 17,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 104,
+            "Y": 0,
+            "Z": 0
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 104,
+            "Height": 34,
+            "Width": 78
+          },
+          "PlaceCuboid": {
+            "Length": 104,
+            "Height": 34,
+            "Width": 78
+          }
+        },
+        {
+          "Order": 18,
+          "Cylinder": false,
+          "Tray": -1,
+          "Orient": 0,
+          "Position": {
+            "X": 104,
+            "Y": 0,
+            "Z": 34
+          },
+          "Priority": 0,
+          "Node": 0,
+          "OriginCuboid": {
+            "Length": 113,
+            "Height": 20,
+            "Width": 56
+          },
+          "PlaceCuboid": {
+            "Length": 113,
+            "Height": 20,
+            "Width": 56
+          }
+        }
+      ],
+      "Volume": 3812094.0,
+      "Bin": {
+        "Length": 587,
+        "Height": 220,
+        "Width": 233
+      }
+    }
+  ],
+  "LoadingRate": 0.49993650634338355,
+  "NumberOfBins": 2
+}

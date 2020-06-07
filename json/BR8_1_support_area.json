@@ -1,0 +1,353 @@
+{
+  "BlockSortingRule": {
+    "Tray": "WidthFirst",
+    "Truck": "WidthFirst"
+  },
+  "Constraint": {
+    "Truck": [
+      {
+        "Ratio": 0.8,
+        "Name": "SupportArea"
+      }
+    ]
+  },
+  "Bin": [
+    {
+      "Length": 587,
+      "Height": 220,
+      "Width": 233
+    }
+  ],
+  "Box": [
+    {
+      "Number": 7,
+      "Length": 108,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 30,
+      "Width": 76
+    },
+    {
+      "Number": 4,
+      "Length": 110,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 25,
+      "Width": 43
+    },
+    {
+      "Number": 5,
+      "Length": 92,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 55,
+      "Width": 81
+    },
+    {
+      "Number": 5,
+      "Length": 81,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 28,
+      "Width": 33
+    },
+    {
+      "Number": 2,
+      "Length": 120,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 73,
+      "Width": 99
+    },
+    {
+      "Number": 4,
+      "Length": 111,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 48,
+      "Width": 70
+    },
+    {
+      "Number": 5,
+      "Length": 98,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 46,
+      "Width": 72
+    },
+    {
+      "Number": 5,
+      "Length": 95,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 31,
+      "Width": 66
+    },
+    {
+      "Number": 5,
+      "Length": 85,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 30,
+      "Width": 84
+    },
+    {
+      "Number": 7,
+      "Length": 71,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 25,
+      "Width": 32
+    },
+    {
+      "Number": 8,
+      "Length": 36,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 25,
+      "Width": 34
+    },
+    {
+      "Number": 6,
+      "Length": 97,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 62,
+      "Width": 67
+    },
+    {
+      "Number": 4,
+      "Length": 33,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 23,
+      "Width": 25
+    },
+    {
+      "Number": 4,
+      "Length": 95,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 26,
+      "Width": 27
+    },
+    {
+      "Number": 4,
+      "Length": 94,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 44,
+      "Width": 81
+    },
+    {
+      "Number": 3,
+      "Length": 41,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 38,
+      "Width": 39
+    },
+    {
+      "Number": 5,
+      "Length": 104,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 65,
+      "Width": 74
+    },
+    {
+      "Number": 4,
+      "Length": 52,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 36,
+      "Width": 41
+    },
+    {
+      "Number": 3,
+      "Length": 104,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 34,
+      "Width": 78
+    },
+    {
+      "Number": 3,
+      "Length": 83,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 46,
+      "Width": 77
+    },
+    {
+      "Number": 6,
+      "Length": 74,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 30,
+      "Width": 56
+    },
+    {
+      "Number": 5,
+      "Length": 95,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 63,
+      "Width": 80
+    },
+    {
+      "Number": 6,
+      "Length": 56,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 33,
+      "Width": 35
+    },
+    {
+      "Number": 3,
+      "Length": 96,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 49,
+      "Width": 95
+    },
+    {
+      "Number": 3,
+      "Length": 88,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 30,
+      "Width": 68
+    },
+    {
+      "Number": 3,
+      "Length": 80,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 29,
+      "Width": 65
+    },
+    {
+      "Number": 5,
+      "Length": 60,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 41,
+      "Width": 55
+    },
+    {
+      "Number": 8,
+      "Length": 113,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 20,
+      "Width": 56
+    },
+    {
+      "Number": 3,
+      "Length": 93,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 31,
+      "Width": 31
+    },
+    {
+      "Number": 7,
+      "Length": 87,
+      "Orients": [
+        0,
+        1
+      ],
+      "Node": 0,
+      "Height": 26,
+      "Width": 83
+    }
+  ]
+}

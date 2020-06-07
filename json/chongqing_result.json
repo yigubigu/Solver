@@ -1,0 +1,2820 @@
+{
+  "Bins": [
+    {
+      "Item": [
+        {
+          "Order": 1,
+          "Cylinder": false,
+          "Tray": 0,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+          },
+          "Priority": 1,
+          "Node": 0,
+          "Code": "Tray1",
+          "OriginCuboid": {
+            "Length": 120,
+            "Height": 93,
+            "Width": 80
+          },
+          "PlaceCuboid": {
+            "Length": 120,
+            "Height": 93,
+            "Width": 80
+          }
+        },
+        {
+          "Order": 2,
+          "Cylinder": false,
+          "Tray": 1,
+          "Orient": 0,
+          "Position": {
+            "X": 0,
+            "Y": 80,
+            "Z": 0
+          },
+          "Priority": 1,
+          "Node": 0,
+          "Code": "Tray2",
+          "OriginCuboid": {
+            "Length": 120,
+            "Height": 93,
+            "Width": 80
+          },
+          "PlaceCuboid": {
+            "Length": 120,
+            "Height": 93,
+            "Width": 80
+          }
+        },
+        {
+          "Order": 3,
+          "Cylinder": false,
+          "Tray": 2,
+          "Orient": 0,
+          "Position": {
+            "X": 120,
+            "Y": 0,
+            "Z": 0
+          },
+          "Priority": 1,
+          "Node": 0,
+          "Code": "Tray3",
+          "OriginCuboid": {
+            "Length": 120,
+            "Height": 93,
+            "Width": 80
+          },
+          "PlaceCuboid": {
+            "Length": 120,
+            "Height": 93,
+            "Width": 80
+          }
+        },
+        {
+          "Order": 4,
+          "Cylinder": false,
+          "Tray": 3,
+          "Orient": 0,
+          "Position": {
+            "X": 120,
+            "Y": 80,
+            "Z": 0
+          },
+          "Priority": 1,
+          "Node": 0,
+          "Code": "Tray4",
+          "OriginCuboid": {
+            "Length": 120,
+            "Height": 93,
+            "Width": 80
+          },
+          "PlaceCuboid": {
+            "Length": 120,
+            "Height": 93,
+            "Width": 80
+          }
+        },
+        {
+          "Order": 5,
+          "Cylinder": false,
+          "Tray": 4,
+          "Orient": 0,
+          "Position": {
+            "X": 240,
+            "Y": 0,
+            "Z": 0
+          },
+          "Priority": 1,
+          "Node": 0,
+          "Code": "Tray5",
+          "OriginCuboid": {
+            "Length": 120,
+            "Height": 93,
+            "Width": 80
+          },
+          "PlaceCuboid": {
+            "Length": 120,
+            "Height": 93,
+            "Width": 80
+          }
+        },
+        {
+          "Order": 6,
+          "Cylinder": false,
+          "Tray": 5,
+          "Orient": 0,
+          "Position": {
+            "X": 240,
+            "Y": 80,
+            "Z": 0
+          },
+          "Priority": 1,
+          "Node": 0,
+          "Code": "Tray6",
+          "OriginCuboid": {
+            "Length": 120,
+            "Height": 93,
+            "Width": 80
+          },
+          "PlaceCuboid": {
+            "Length": 120,
+            "Height": 93,
+            "Width": 80
+          }
+        },
+        {
+          "Order": 7,
+          "Cylinder": false,
+          "Tray": 6,
+          "Orient": 0,
+          "Position": {
+            "X": 360,
+            "Y": 0,
+            "Z": 0
+          },
+          "Priority": 1,
+          "Node": 0,
+          "Code": "Tray7",
+          "OriginCuboid": {
+            "Length": 120,
+            "Height": 93,
+            "Width": 80
+          },
+          "PlaceCuboid": {
+            "Length": 120,
+            "Height": 93,
+            "Width": 80
+          }
+        },
+        {
+          "Order": 8,
+          "Cylinder": false,
+          "Tray": 7,
+          "Orient": 0,
+          "Position": {
+            "X": 360,
+            "Y": 80,
+            "Z": 0
+          },
+          "Priority": 1,
+          "Node": 0,
+          "Code": "Tray8",
+          "OriginCuboid": {
+            "Length": 120,
+            "Height": 93,
+            "Width": 80
+          },
+          "PlaceCuboid": {
+            "Length": 120,
+            "Height": 93,
+            "Width": 80
+          }
+        },
+        {
+          "Order": 9,
+          "Cylinder": false,
+          "Tray": 8,
+          "Orient": 0,
+          "Position": {
+            "X": 480,
+            "Y": 0,
+            "Z": 0
+          },
+          "Priority": 1,
+          "Node": 0,
+          "Code": "Tray9",
+          "OriginCuboid": {
+            "Length": 120,
+            "Height": 93,
+            "Width": 80
+          },
+          "PlaceCuboid": {
+            "Length": 120,
+            "Height": 93,
+            "Width": 80
+          }
+        }
+      ],
+      "Tray": [
+        {
+          "Item": [
+            {
+              "Order": 1,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 2,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 0,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 3,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 0,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 4,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 36,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 5,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 36,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 6,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 36,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 7,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 0,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 8,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 0,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 9,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 0,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 10,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 36,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 11,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 36,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 12,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 36,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            }
+          ],
+          "Volume": 709776.0,
+          "Bin": {
+            "Length": 120,
+            "Height": 239,
+            "Width": 80
+          }
+        },
+        {
+          "Item": [
+            {
+              "Order": 1,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 2,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 0,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 3,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 0,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 4,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 36,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 5,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 36,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 6,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 36,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 7,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 0,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 8,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 0,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 9,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 0,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 10,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 36,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 11,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 36,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 12,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 36,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            }
+          ],
+          "Volume": 709776.0,
+          "Bin": {
+            "Length": 120,
+            "Height": 239,
+            "Width": 80
+          }
+        },
+        {
+          "Item": [
+            {
+              "Order": 1,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 2,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 0,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 3,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 0,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 4,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 36,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 5,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 36,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 6,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 36,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 7,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 0,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 8,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 0,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 9,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 0,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 10,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 36,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 11,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 36,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 12,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 36,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            }
+          ],
+          "Volume": 709776.0,
+          "Bin": {
+            "Length": 120,
+            "Height": 239,
+            "Width": 80
+          }
+        },
+        {
+          "Item": [
+            {
+              "Order": 1,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2692273",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 2,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 0,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2692273",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 3,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 0,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2692273",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 4,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 36,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2692273",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 5,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 36,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2692273",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 6,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 36,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2692273",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 7,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 0,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2692273",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 8,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 0,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2692273",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 9,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 0,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2692273",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 10,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 36,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2692273",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 11,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 36,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2692273",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 12,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 36,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2692273",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            }
+          ],
+          "Volume": 709776.0,
+          "Bin": {
+            "Length": 120,
+            "Height": 239,
+            "Width": 80
+          }
+        },
+        {
+          "Item": [
+            {
+              "Order": 1,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2692273",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 2,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 0,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2692273",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 3,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 0,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2692273",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 4,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 36,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2692273",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 5,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 36,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2692273",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 6,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 36,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2692273",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 7,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 0,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2692273",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 8,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 0,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2692273",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 9,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 0,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2692273",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 10,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 36,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2692273",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 11,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 36,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2692273",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 12,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 36,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2692273",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            }
+          ],
+          "Volume": 709776.0,
+          "Bin": {
+            "Length": 120,
+            "Height": 239,
+            "Width": 80
+          }
+        },
+        {
+          "Item": [
+            {
+              "Order": 1,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229423-Charcoal",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 2,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 0,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229423-Charcoal",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 3,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 0,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229423-Charcoal",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 4,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 36,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229423-Charcoal",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 5,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 36,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229423-Charcoal",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 6,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 36,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229423-Charcoal",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 7,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 0,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229423-Charcoal",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 8,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 0,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229423-Charcoal",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 9,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 0,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229423-Charcoal",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 10,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 36,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229423-Charcoal",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 11,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 36,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229423-Charcoal",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 12,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 36,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229423-Charcoal",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            }
+          ],
+          "Volume": 709776.0,
+          "Bin": {
+            "Length": 120,
+            "Height": 239,
+            "Width": 80
+          }
+        },
+        {
+          "Item": [
+            {
+              "Order": 1,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3098042-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 2,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 0,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 3,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 0,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 4,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 36,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3098042-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 5,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 36,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 6,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 36,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 7,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 0,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3098042-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 8,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 0,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 9,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 0,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 10,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 36,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3098042-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 11,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 36,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 12,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 36,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            }
+          ],
+          "Volume": 709776.0,
+          "Bin": {
+            "Length": 120,
+            "Height": 239,
+            "Width": 80
+          }
+        },
+        {
+          "Item": [
+            {
+              "Order": 1,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 2,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 0,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2430233-Charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 3,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 0,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2430233-Charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 4,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 36,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 5,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 36,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2430233-Charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 6,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 0,
+                "Y": 36,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2430233-Charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 7,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 0,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-blond",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 8,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 0,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2692273",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 9,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 0,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229423-Charcoal",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 10,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 36,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229424-blond",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 11,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 36,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2692273",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            },
+            {
+              "Order": 12,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 0,
+              "Position": {
+                "X": 53,
+                "Y": 36,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229423-Charcoal",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              }
+            }
+          ],
+          "Volume": 709776.0,
+          "Bin": {
+            "Length": 120,
+            "Height": 239,
+            "Width": 80
+          }
+        },
+        {
+          "Item": [
+            {
+              "Order": 1,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 1,
+              "Position": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3098042-charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 36,
+                "Height": 31,
+                "Width": 53
+              }
+            },
+            {
+              "Order": 2,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 1,
+              "Position": {
+                "X": 0,
+                "Y": 0,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2430232-Charc ",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 36,
+                "Height": 31,
+                "Width": 53
+              }
+            },
+            {
+              "Order": 3,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 1,
+              "Position": {
+                "X": 0,
+                "Y": 0,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2430232-Charc ",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 36,
+                "Height": 31,
+                "Width": 53
+              }
+            },
+            {
+              "Order": 4,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 1,
+              "Position": {
+                "X": 36,
+                "Y": 0,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3098042-blond",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 36,
+                "Height": 31,
+                "Width": 53
+              }
+            },
+            {
+              "Order": 5,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 1,
+              "Position": {
+                "X": 36,
+                "Y": 0,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2692273",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 36,
+                "Height": 31,
+                "Width": 53
+              }
+            },
+            {
+              "Order": 6,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 1,
+              "Position": {
+                "X": 36,
+                "Y": 0,
+                "Z": 62
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229423-Charcoal",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 36,
+                "Height": 31,
+                "Width": 53
+              }
+            },
+            {
+              "Order": 7,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 1,
+              "Position": {
+                "X": 72,
+                "Y": 0,
+                "Z": 0
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "3229423-Blond",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 36,
+                "Height": 31,
+                "Width": 53
+              }
+            },
+            {
+              "Order": 8,
+              "Cylinder": false,
+              "Tray": -1,
+              "Orient": 1,
+              "Position": {
+                "X": 72,
+                "Y": 0,
+                "Z": 31
+              },
+              "Priority": 1,
+              "Node": 0,
+              "Code": "2430233-Charc",
+              "OriginCuboid": {
+                "Length": 53,
+                "Height": 31,
+                "Width": 36
+              },
+              "PlaceCuboid": {
+                "Length": 36,
+                "Height": 31,
+                "Width": 53
+              }
+            }
+          ],
+          "Volume": 473184.0,
+          "Bin": {
+            "Length": 120,
+            "Height": 239,
+            "Width": 80
+          }
+        }
+      ],
+      "Volume": 8035200.0,
+      "Bin": {
+        "Length": 1203,
+        "Height": 239,
+        "Width": 235
+      }
+    }
+  ],
+  "LoadingRate": 0.11892284778128567,
+  "NumberOfBins": 1
+}

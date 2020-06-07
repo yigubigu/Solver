@@ -1,0 +1,296 @@
+{
+  "Tray": [
+    {
+      "Length": 120,
+      "Height": 0,
+      "Width": 80
+    }
+  ],
+  "BlockSortingRule": {
+    "Tray": "WidthFirst",
+    "Truck": "WidthFirst"
+  },
+  "Constraint": {
+    "Tray": [
+      {
+        "Ratio": 0.8,
+        "Name": "SupportAreaTrim"
+      },
+      {
+        "Factor": 1.0E10,
+        "Map": {
+          "0": {
+            "MaxStack": 3,
+            "Support": 0,
+            "Weight": 153
+          },
+          "1": {
+            "MaxStack": 3,
+            "Support": 0,
+            "Weight": 153
+          },
+          "2": {
+            "MaxStack": 3,
+            "Support": 0,
+            "Weight": 62
+          },
+          "3": {
+            "MaxStack": 3,
+            "Support": 0,
+            "Weight": 62
+          },
+          "4": {
+            "MaxStack": 3,
+            "Support": 0,
+            "Weight": 37
+          },
+          "5": {
+            "MaxStack": 3,
+            "Support": 0,
+            "Weight": 62
+          },
+          "6": {
+            "MaxStack": 3,
+            "Support": 0,
+            "Weight": 62
+          },
+          "7": {
+            "MaxStack": 3,
+            "Support": 0,
+            "Weight": 115
+          },
+          "8": {
+            "MaxStack": 3,
+            "Support": 0,
+            "Weight": 115
+          }
+        },
+        "Name": "WeightSupportAdvance",
+        "Threshold": 0
+      }
+    ],
+    "Truck": [
+      {
+        "Ratio": 0.8,
+        "Name": "SupportAreaTrim"
+      },
+      {
+        "SupportMap": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "7": 0,
+          "8": 0
+        },
+        "WeightMap": {
+          "0": 153,
+          "1": 153,
+          "2": 62,
+          "3": 62,
+          "4": 37,
+          "5": 62,
+          "6": 62,
+          "7": 115,
+          "8": 115
+        },
+        "Name": "WeightSupportDifferentType"
+      },
+      {
+        "Map": {
+          "0": 3,
+          "1": 3,
+          "2": 3,
+          "3": 3,
+          "4": 3,
+          "5": 3,
+          "6": 3,
+          "7": 3,
+          "8": 3
+        },
+        "Name": "StackLimit"
+      }
+    ]
+  },
+  "Bin": [
+    {
+      "Length": 589,
+      "Height": 239,
+      "Width": 235
+    },
+    {
+      "Length": 1203,
+      "Height": 239,
+      "Width": 235
+    }
+  ],
+  "Parameter": {
+    "Tray": {
+      "SimpleBlock_EachNumber": 1000,
+      "TreeSearch_Depth": 2,
+      "ComplexBlock_TotalNumber": 2000,
+      "ComplexBlock_LoadingRate": 0.98,
+      "TreeSearch_SpaceSize": 2,
+      "SimpleBlock_TotalNumber": 2000,
+      "TreeSearch_BlockSize": 20
+    },
+    "Truck": {
+      "SimpleBlock_EachNumber": 1000,
+      "TreeSearch_Depth": 2,
+      "ComplexBlock_TotalNumber": 2000,
+      "ComplexBlock_LoadingRate": 0.98,
+      "TreeSearch_SpaceSize": 2,
+      "SimpleBlock_TotalNumber": 2000,
+      "TreeSearch_BlockSize": 20
+    }
+  },
+  "Box": [
+    {
+      "Tray": true,
+      "Codes": [
+        "3098042-charc"
+      ],
+      "Number": 5,
+      "Length": 53,
+      "Orients": [
+        0,
+        1
+      ],
+      "Priority": 1,
+      "Node": 0,
+      "Height": 31,
+      "Width": 36
+    },
+    {
+      "Tray": true,
+      "Codes": [
+        "3098042-blond"
+      ],
+      "Number": 1,
+      "Length": 53,
+      "Orients": [
+        0,
+        1
+      ],
+      "Priority": 1,
+      "Node": 0,
+      "Height": 31,
+      "Width": 36
+    },
+    {
+      "Tray": true,
+      "Codes": [
+        "3229424-charc"
+      ],
+      "Number": 46,
+      "Length": 53,
+      "Orients": [
+        0,
+        1
+      ],
+      "Priority": 1,
+      "Node": 0,
+      "Height": 31,
+      "Width": 36
+    },
+    {
+      "Tray": true,
+      "Codes": [
+        "3229424-blond"
+      ],
+      "Number": 2,
+      "Length": 53,
+      "Orients": [
+        0,
+        1
+      ],
+      "Priority": 1,
+      "Node": 0,
+      "Height": 31,
+      "Width": 36
+    },
+    {
+      "Tray": true,
+      "Codes": [
+        "2692273"
+      ],
+      "Number": 27,
+      "Length": 53,
+      "Orients": [
+        0,
+        1
+      ],
+      "Priority": 1,
+      "Node": 0,
+      "Height": 31,
+      "Width": 36
+    },
+    {
+      "Tray": true,
+      "Codes": [
+        "3229423-Charcoal"
+      ],
+      "Number": 15,
+      "Length": 53,
+      "Orients": [
+        0,
+        1
+      ],
+      "Priority": 1,
+      "Node": 0,
+      "Height": 31,
+      "Width": 36
+    },
+    {
+      "Tray": true,
+      "Codes": [
+        "3229423-Blond"
+      ],
+      "Number": 1,
+      "Length": 53,
+      "Orients": [
+        0,
+        1
+      ],
+      "Priority": 1,
+      "Node": 0,
+      "Height": 31,
+      "Width": 36
+    },
+    {
+      "Tray": true,
+      "Codes": [
+        "2430232-Charc "
+      ],
+      "Number": 2,
+      "Length": 53,
+      "Orients": [
+        0,
+        1
+      ],
+      "Priority": 1,
+      "Node": 0,
+      "Height": 31,
+      "Width": 36
+    },
+    {
+      "Tray": true,
+      "Codes": [
+        "2430233-Charc"
+      ],
+      "Number": 5,
+      "Length": 53,
+      "Orients": [
+        0,
+        1
+      ],
+      "Priority": 1,
+      "Node": 0,
+      "Height": 31,
+      "Width": 36
+    }
+  ]
+}
