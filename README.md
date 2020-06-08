@@ -37,7 +37,7 @@
 
 ## 装箱问题求解器
 
-[](/image/packing.png)
+![](/image/packing.png)
 
 ### 约束条件
 
