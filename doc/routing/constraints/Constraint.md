@@ -5,31 +5,32 @@
  1. [CapacityConstraint](CapacityConstraint.md)：容量约束。
  2. [CapacityConstraintPD](CapacityConstraintPD.md)：取货送货问题（Pickup and Delivery）的容量约束。
  3. [TimeWindowConstraint](TimeWindowConstraint.md)：时间窗约束。
- 4. [TimeWindowConstraintPD](TimeWindowConstraintPD.md)：取货送货问题的时间窗约束。
- 5. TimeWindowConstraintTD：考虑车辆行驶时间可变（Time Dependent Travel Time）的时间窗约束，两点i和j之间的行驶时间t<sub>i,j</sub>(a)是车辆从i离开的时间a的分段线性函数，并且满足先进先出（FIFO）规则。
- 6. [SoftTimeWindowConstraint](SoftTimeWindowConstraint.md)：软时间窗约束，车辆早到或晚到都会被惩罚，而且车辆不能在顾客处等待。
- 7. [SoftTimeWindowConstraintPD](SoftTimeWindowConstraintPD.md)：取货送货问题的软时间约束。
- 8. TimeWindowWaitConstraintPD：针对取货送货问题，车辆到达一个点时需要考虑一个服务的等待时间。假如车辆连续经过多个点都对应同一个物理点，那么只需要在第一个点考虑等待时间。该约束的应用场景类似快递配送，快递员到达一个地点后打电话通知多个顾客到约定地点取货，从打电话到顾客来取件的时间就对应服务等待时间。
- 9. [TimeWindowConstraintLoad](TimeWindowConstraintLoad.md)：考虑装货时间的时间窗约束，车辆在出发前需要将配送的货物装车，而装货时间是货量的一个线性函数。同时，装货的设备（包括人工）假如足够多，每辆车之间装车操作相对独立。
- 10. TimeWindowQueueConstraint：考虑货物加工时间的时间窗约束，货物在装车前都需要进行加工，每个顾客的货物加工时间固定，加工的设备只有一台，所以车辆有可能由于需要等待加工的货物装车而发生排队的情况。
- 11. TimeWindowQueueReleaseConstraint：考虑货物开始时间和加工时间的时间窗约束，是 TimeWindowQueueConstraint的通用版本。在该约束中，货物有一个允许开始加工时间（Release time），在规划货物加工顺序的时候需要考虑货物的允许开始加工时间。
- 12. [CrossDepotConstraintPD](CrossDepotConstraintPD.md)：节点中的某些节点对应实际的物理仓库，车辆从物理仓库出发就算一趟，而车辆行驶的趟数不能超过给定的限制。
- 13. [DepotVisitConstraint](DepotVisitConstraint.md)：在该约束中，从某个仓库出发的车辆只允许访问某些节点。
- 14. [DestinationConstraint](DestinationConstraint.md)：车辆和顾客都属于某个区域，车辆只能访问同一个区域的顾客。
- 15. [DistrictRestrictionConstraint](DistrictRestrictionConstraint.md)：车辆区域访问限制约束，即车辆不允许跨区运输。
- 16. [DurationConstraint](DurationConstraint.md)：工作时长约束，即车辆的从仓库出发到回到仓库的时长不能超过给定的限制。
- 17. [DurationConstraintPD](DurationConstraintPD.md)：取货送货问题的工作时长约束。
- 18. [ElectricCapacityConstraint](ElectricCapacityConstraint.md)：电动车行驶里程约束，即电动车由于电池容量有限，一次充电后行驶的里程不能超过给定的限制，中途允许到充电站充电，每一次充电要求必须充满，并且充电时长是一个定值。
- 19. [PhysicalArcNumberConstraint](PhysicalArcNumberConstraint.md)：车辆每一趟经过的物理边（即两个点在物理上不是同一个地方）的次数不能超过给定限制。
- 20. [PhysicalNodeNumberConstraintPD](PhysicalNodeNumberConstraintPD.md)：针对取货送货问题，车辆每一趟经过的物理点的次数不能超过给定限制。
- 21. [PickupDeliveryPrecedenceConstraint](PickupDeliveryPrecedenceConstraint.md)：针对取货送货问题，车辆多个连续访问的节点对应同一个物理节点，那么卸货点必须在取货点先访问，对应到同一个地方先卸货后取货。
- 22. [VisitRestrictionConstraint](VisitRestrictionConstraint.md)：车辆访问节点约束，即限定某些节点只能被特定车型访问。
- 23. [VisitRestrictionConstraintPD](VisitRestrictionConstraintPD.md)：取货送货问题的车辆访问节点约束。
- 24. [TripSameTypeConstraint](TripSameTypeConstraint.md)：车辆的每一趟访问的节点必须属于同一种类型。
- 25. [MultiTripEnableConstraint](MultiTripEnableConstraint.md)：只允许某些特定的车型执行多趟运输（Multi-Trip）。
- 26. [DistancePruneConstraint](DistancePruneConstraint.md)：没有实际意义，作用是加速邻域搜索速度。
- 27. DistancePruneConstraintPD：取货送货问题，没有实际意义，作用是加速邻域搜索速度。
- 28. PackingConstraint：三维装载约束，通过该约束可以将车辆路径问题和三维装箱问题结合在一起。
+ 4. [MultiTimeWindowConstraint](MultiTimeWindowConstraint.md)：多时间窗约束，即允许一个节点同时有多个时间窗。
+ 5. [TimeWindowConstraintPD](TimeWindowConstraintPD.md)：取货送货问题的时间窗约束。
+ 6. TimeWindowConstraintTD：考虑车辆行驶时间可变（Time Dependent Travel Time）的时间窗约束，两点i和j之间的行驶时间t<sub>i,j</sub>(a)是车辆从i离开的时间a的分段线性函数，并且满足先进先出（FIFO）规则。
+ 7. [SoftTimeWindowConstraint](SoftTimeWindowConstraint.md)：软时间窗约束，车辆早到或晚到都会被惩罚，而且车辆不能在顾客处等待。
+ 8. [SoftTimeWindowConstraintPD](SoftTimeWindowConstraintPD.md)：取货送货问题的软时间约束。
+ 9. TimeWindowWaitConstraintPD：针对取货送货问题，车辆到达一个点时需要考虑一个服务的等待时间。假如车辆连续经过多个点都对应同一个物理点，那么只需要在第一个点考虑等待时间。该约束的应用场景类似快递配送，快递员到达一个地点后打电话通知多个顾客到约定地点取货，从打电话到顾客来取件的时间就对应服务等待时间。
+ 10. [TimeWindowConstraintLoad](TimeWindowConstraintLoad.md)：考虑装货时间的时间窗约束，车辆在出发前需要将配送的货物装车，而装货时间是货量的一个线性函数。同时，装货的设备（包括人工）假如足够多，每辆车之间装车操作相对独立。
+ 11. TimeWindowQueueConstraint：考虑货物加工时间的时间窗约束，货物在装车前都需要进行加工，每个顾客的货物加工时间固定，加工的设备只有一台，所以车辆有可能由于需要等待加工的货物装车而发生排队的情况。
+ 12. TimeWindowQueueReleaseConstraint：考虑货物开始时间和加工时间的时间窗约束，是 TimeWindowQueueConstraint的通用版本。在该约束中，货物有一个允许开始加工时间（Release time），在规划货物加工顺序的时候需要考虑货物的允许开始加工时间。
+ 13. [CrossDepotConstraintPD](CrossDepotConstraintPD.md)：节点中的某些节点对应实际的物理仓库，车辆从物理仓库出发就算一趟，而车辆行驶的趟数不能超过给定的限制。
+ 14. [DepotVisitConstraint](DepotVisitConstraint.md)：在该约束中，从某个仓库出发的车辆只允许访问某些节点。
+ 15. [DestinationConstraint](DestinationConstraint.md)：车辆和顾客都属于某个区域，车辆只能访问同一个区域的顾客。
+ 16. [DistrictRestrictionConstraint](DistrictRestrictionConstraint.md)：车辆区域访问限制约束，即车辆不允许跨区运输。
+ 17. [DurationConstraint](DurationConstraint.md)：工作时长约束，即车辆的从仓库出发到回到仓库的时长不能超过给定的限制。
+ 18. [DurationConstraintPD](DurationConstraintPD.md)：取货送货问题的工作时长约束。
+ 19. [ElectricCapacityConstraint](ElectricCapacityConstraint.md)：电动车行驶里程约束，即电动车由于电池容量有限，一次充电后行驶的里程不能超过给定的限制，中途允许到充电站充电，每一次充电要求必须充满，并且充电时长是一个定值。
+ 20. [PhysicalArcNumberConstraint](PhysicalArcNumberConstraint.md)：车辆每一趟经过的物理边（即两个点在物理上不是同一个地方）的次数不能超过给定限制。
+ 21. [PhysicalNodeNumberConstraintPD](PhysicalNodeNumberConstraintPD.md)：针对取货送货问题，车辆每一趟经过的物理点的次数不能超过给定限制。
+ 22. [PickupDeliveryPrecedenceConstraint](PickupDeliveryPrecedenceConstraint.md)：针对取货送货问题，车辆多个连续访问的节点对应同一个物理节点，那么卸货点必须在取货点先访问，对应到同一个地方先卸货后取货。
+ 23. [VisitRestrictionConstraint](VisitRestrictionConstraint.md)：车辆访问节点约束，即限定某些节点只能被特定车型访问。
+ 24. [VisitRestrictionConstraintPD](VisitRestrictionConstraintPD.md)：取货送货问题的车辆访问节点约束。
+ 25. [TripSameTypeConstraint](TripSameTypeConstraint.md)：车辆的每一趟访问的节点必须属于同一种类型。
+ 26. [MultiTripEnableConstraint](MultiTripEnableConstraint.md)：只允许某些特定的车型执行多趟运输（Multi-Trip）。
+ 27. [DistancePruneConstraint](DistancePruneConstraint.md)：没有实际意义，作用是加速邻域搜索速度。
+ 28. DistancePruneConstraintPD：取货送货问题，没有实际意义，作用是加速邻域搜索速度。
+ 29. PackingConstraint：三维装载约束，通过该约束可以将车辆路径问题和三维装箱问题结合在一起。
 
 目前求解器已经集成的目标函数包括：
 
