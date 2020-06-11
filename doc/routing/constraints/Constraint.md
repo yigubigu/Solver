@@ -5,7 +5,7 @@
  1. [CapacityConstraint](CapacityConstraint.md)：容量约束。
  2. [CapacityConstraintPD](CapacityConstraintPD.md)：取货送货问题（Pickup and Delivery）的容量约束。
  3. [TimeWindowConstraint](TimeWindowConstraint.md)：时间窗约束。
- 4. [GeneralTimeWindowConstraint](MultiTimeWindowConstraint.md)：通用时间窗约束，允许顾客节点有多个服务时间窗、仓库有多个提货时间窗、不同的车型有不同的工作时间窗和行驶速度。
+ 4. [GeneralTimeWindowConstraint](GeneralTimeWindowConstraint.md)：通用时间窗约束，允许顾客节点有多个服务时间窗、仓库有多个提货时间窗、不同的车型有不同的工作时间窗和行驶速度。
  5. [TimeWindowConstraintPD](TimeWindowConstraintPD.md)：取货送货问题的时间窗约束。
  6. TimeWindowConstraintTD：考虑车辆行驶时间可变（Time Dependent Travel Time）的时间窗约束，两点i和j之间的行驶时间t<sub>i,j</sub>(a)是车辆从i离开的时间a的分段线性函数，并且满足先进先出（FIFO）规则。
  7. [SoftTimeWindowConstraint](SoftTimeWindowConstraint.md)：软时间窗约束，车辆早到或晚到都会被惩罚，而且车辆不能在顾客处等待。
