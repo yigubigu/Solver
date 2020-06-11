@@ -1,4 +1,4 @@
-# MultiTimeWindowConstraint
+# GeneralTimeWindowConstraint
 
 ## 描述
 
@@ -6,7 +6,7 @@
 
 ```json
 {
-	"Name": "MultiTimeWindowConstraint",
+	"Name": "GeneralTimeWindowConstraint",
 	"NumberOfNodes": 3,
 	"NumberOfVehicles": 2,
 	"Speed": {
@@ -18,20 +18,15 @@
 		"1": 10,
 		"2": 10
 	},
-	"TimeWindows":{
-		"0":{
-			"EarlistStartTimes":[50, 100, 200],
-			"LatestStartTimes":[70, 120, 220]
-		},
-		"1":{
-			"EarlistStartTimes":[50, 100, 200],
-			"LatestStartTimes":[70, 120, 220]
-		},
-		"2":{
-			"EarlistStartTimes":[50, 100, 200],
-			"LatestStartTimes":[70, 120, 220]
-		}
+	"NodeTimeWindows":{
+		"0": [[50, 70], [100, 120], [150, 180]],
+		"1": [[50, 70], [100, 120], [150, 180]],
+		"2": [[50, 70], [100, 120], [150, 180]]
 	},
+	"VehicleTimeWindow"{
+		"0": [0, 1000],
+		"1": [100, 2000]
+	}
 	"PhysicalMap":{
 		"0": 0,
 		"1": 1,
@@ -61,9 +56,8 @@
 * NumberOfVehicles：Integer，车辆种类数量。
 * Speed\*：一维Double数组，车辆的行驶速度，对于所有车型默认都是1。
 * ServiceTimes：一维Double数组，节点的服务时长。
-* TimeWindows: 一维HashMap数组，节点的服务时间窗。
-	+ EarlistStartTimes：一维Integer列表，节点所有时间窗的最早服务开始时间。
-	+ LatestStartTimes：一维Integer列表，节点所有时间窗的最晚服务开始时间。
+* NodeTimeWindows: 一维Double列表数组，节点的服务时间窗。对于仓库来说，节点的时间窗是指车辆在仓库提货的时间窗。
+* VehicleTimeWindows: 一维Double列表数组，每种车型的工作时间窗，即车辆允许离开仓库的最早时间和必须回到仓库的最晚时间。
 * PhysicalMap\*：一维Integer数组，将节点映射到物理节点。
 * TimeMatrix：二维Double数组，行驶时间矩阵。
 
