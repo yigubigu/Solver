@@ -8,11 +8,6 @@
 {
 	"Name": "DurationConstraint",
 	"NumberOfNodes": 3,
-	"NumberOfVehicles": 2,
-	"Speed": {
-		"0": 1.5,
-		"1": 1
-	},
 	"Durations":{
 		"0": 1000,
 		"1": 2000,
@@ -50,8 +45,6 @@
 ```
 * Name: String，名称。
 * NumberOfNodes: Integer，节点个数。
-* NumberOfVehicles：Integer，车辆种类数量。
-* Speed\*：一维Double数组，车辆的行驶速度。
 * Durations：一维Double数组，车辆的工作时长。
 * ServiceTimes：一维Double数组，节点的服务时长。
 * PhysicalMap\*：一维Integer数组，将节点映射到物理节点。
