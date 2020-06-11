@@ -8,11 +8,6 @@
 {
 	"Name": "SoftTimeWindowConstraint",
 	"NumberOfNodes": 3,
-	"NumberOfVehicles": 2,
-	"Speed": {
-		"0": 1.5,
-		"1": 1
-	},
 	"LatestStartTimes":{
 		"0": 1000,
 		"1": 100,
