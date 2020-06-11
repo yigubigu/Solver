@@ -9,11 +9,6 @@
 	"Name": "SoftTimeWindowConstraintPD",
 	"FirstPickupNode": 1,
 	"NumberOfPickupNodes": 1,
-	"NumberOfVehicles": 2,
-	"Speed": {
-		"0": 1.5,
-		"1": 1
-	},
 	"LatestStartTimes":{
 		"0": 1000,
 		"1": 100,
