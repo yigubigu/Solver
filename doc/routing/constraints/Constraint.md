@@ -34,24 +34,26 @@
 
 目前求解器已经集成的目标函数包括：
 
- 1. [MinimizeDistance](MinimizeDistance.md)：最小化车辆的行驶距离成本。
- 2. [MinimizeDistancePD](MinimizeDistancePD.md)：针对取货送货问题，最小化车辆的行驶距离成本。
- 3. [MinimizeFixedCost](MinimizeFixedCost.md)：最小化车辆的固定成本。
- 4. [MinimizeFixedCostPD](MinimizeFixedCostPD.md)：针对取货送货问题，最小化车辆的固定成本。
- 5. [MaximizeProfit](MaximizeProfit.md)：最大化节点的访问收益，每一个节点都有一个收益，访问该节点即可以获取该收益。
- 6. [MaximizeProfitPD](MaximizeProfitPD.md)：针对取货送货问题，最大化节点访问收益。
- 7. [MinimizeChargeCost](MinimizeChargeCost.md)：在电动车路径问题中，最小化充电成本，车辆每访问以此充电站即需要支付一个固定数量的成本。
- 8. MinimizeClusterCost：最小化路径上任意两个节点的欧氏距离平方之和，目的是尽可能让同一条路径上的点聚集在一起。
+ 1. [MinimizeDistance](MinimizeDistance.md)<sup>Ⓜ</sup>：最小化车辆的行驶距离成本。
+ 2. [MinimizeDistancePD](MinimizeDistancePD.md)<sup>Ⓜ</sup>：针对取货送货问题，最小化车辆的行驶距离成本。
+ 3. [MinimizeFixedCost](MinimizeFixedCost.md)<sup>Ⓜ</sup>：最小化车辆的固定成本。
+ 4. [MinimizeFixedCostPD](MinimizeFixedCostPD.md)<sup>Ⓜ</sup>：针对取货送货问题，最小化车辆的固定成本。
+ 5. [MaximizeProfit](MaximizeProfit.md)<sup>Ⓜ</sup>：最大化节点的访问收益，每一个节点都有一个收益，访问该节点即可以获取该收益。
+ 6. [MaximizeProfitPD](MaximizeProfitPD.md)<sup>Ⓜ</sup>：针对取货送货问题，最大化节点访问收益。
+ 7. [MinimizeChargeCost](MinimizeChargeCost.md)<sup>Ⓜ</sup>：在电动车路径问题中，最小化充电成本，车辆每访问以此充电站即需要支付一个固定数量的成本。
+ 8. MinimizeClusterCost<sup>Ⓜ</sup>：最小化路径上任意两个节点的欧氏距离平方之和，目的是尽可能让同一条路径上的点聚集在一起。
  9. [MinimizeCrossPenalty](MinimizeCrossPenalty.md)：最小化车辆跨区访问的成本，车辆一旦跨区，跨区成本是车辆的行驶里程，否则，跨区成本为0。
- 10. [MinimizeDepotDependentCost](MinimizeDepotDependentCost.md)：最小化车辆行驶距离成本，不同仓库出发的车辆的单位行驶成本有所不同。
- 11. MinimizeDepotPairCost：最小化车辆访问节点的成本，车辆从某一个仓库出发访问一个节点需要支付一个成本，不同的仓库出发的车辆访问同一个节点的成本有所不同。
- 12. [MinimizeLoadDependentCost](MinimizeLoadDependentCost.md)：路径成本和车辆载货量相关。给定路径(0, 1, 2, ..., n, 0)，假定c\[\]\[\]是成本矩阵，q是车辆的载货量，那么路径成本是q * max<sub>i = 1,...,n</sub>c\[i\]\[q\]。
+ 10. [MinimizeDepotDependentCost](MinimizeDepotDependentCost.md)<sup>Ⓜ</sup>：最小化车辆行驶距离成本，不同仓库出发的车辆的单位行驶成本有所不同。
+ 11. MinimizeDepotPairCost<sup>Ⓜ</sup>：最小化车辆访问节点的成本，车辆从某一个仓库出发访问一个节点需要支付一个成本，不同的仓库出发的车辆访问同一个节点的成本有所不同。
+ 12. [MinimizeLoadDependentCost](MinimizeLoadDependentCost.md)<sup>Ⓜ</sup>：路径成本和车辆载货量相关。给定路径(0, 1, 2, ..., n, 0)，假定c\[\]\[\]是成本矩阵，q是车辆的载货量，那么路径成本是q * max<sub>i = 1,...,n</sub>c\[i\]\[q\]。
  13. MinimizeStartEndCost：用于服务网络规划问题（Service Network Design Problem），表示从终点返回起点的成本。
- 14. [MinimizeTypeSumCost](MinimizeTypeSumCost.md)：车辆经过的顾客的需求可以分为不同的种类，每种类型的需求单位成本不一样，路径总成本是所有类型的需求成本之和（单位成本 * 需求量）。
+ 14. [MinimizeTypeSumCost](MinimizeTypeSumCost.md)<sup>Ⓜ</sup>：车辆经过的顾客的需求可以分为不同的种类，每种类型的需求单位成本不一样，路径总成本是所有类型的需求成本之和（单位成本 * 需求量）。
  15. [MinimizeWeightSumCost](MinimizeWeightSumCost.md)：用q表示车中，u表示单位重量成本，mq表示一个常数，那么路径的成本是u * max(q, mq)。
  16. [MinimizeWholeVehicleCost](MinimizeWholeVehicleCost.md)：用d表示路径的距离，u表示单位行驶成本，ub表示零担成本，那么路径的成本是min(u * d, ub)。
- 17. MinimizeDepotBalanceCost：顾客的订单来自于不同的仓库，当配送车辆出发的仓库和订单仓库不一致时，需要首先将订单运输到发车的仓库，也就是需要在两个仓库之间建立连接，这个连接的建立只需要支付一次性固定成本。
- 18. MinimizeInventoryCost：最小化节点的库存成本，节点有一个库存成本，等于（最晚开始时间-送达时间）* 系数。该目标函数一般用于排产问题。
+ 17. MinimizeDepotBalanceCost<sup>Ⓜ</sup>：顾客的订单来自于不同的仓库，当配送车辆出发的仓库和订单仓库不一致时，需要首先将订单运输到发车的仓库，也就是需要在两个仓库之间建立连接，这个连接的建立只需要支付一次性固定成本。
+ 18. MinimizeInventoryCost<sup>Ⓜ</sup>：最小化节点的库存成本，节点有一个库存成本，等于（最晚开始时间-送达时间）* 系数。该目标函数一般用于排产问题。
+
+注：Ⓜ表示支持多趟（Multi-Trip）的约束条件或目标函数。
 
 以MinimizeDistance为例，介绍约束条件和目标函数的json结构。假如Data项不存在，则json内容如下：
 ```json
