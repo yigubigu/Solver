@@ -16,7 +16,7 @@
  12. TimeWindowQueueReleaseConstraint：考虑货物开始时间和加工时间的时间窗约束，是 TimeWindowQueueConstraint的通用版本。在该约束中，货物有一个允许开始加工时间（Release time），在规划货物加工顺序的时候需要考虑货物的允许开始加工时间。
  13. [CrossDepotConstraintPD](CrossDepotConstraintPD.md)：节点中的某些节点对应实际的物理仓库，车辆从物理仓库出发就算一趟，而车辆行驶的趟数不能超过给定的限制。
  14. [DepotVisitConstraint](DepotVisitConstraint.md)：在该约束中，从某个仓库出发的车辆只允许访问某些节点。
- 15. [DestinationConstraint](DestinationConstraint.md)：车辆和顾客都属于某个区域，车辆只能访问同一个区域的顾客。
+ 15. [DestinationConstraint](DestinationConstraint.md)：车辆和顾客都属于某个区域，车辆服务的最后一个顾客必须和车辆属于同一个区域。
  16. [DistrictRestrictionConstraint](DistrictRestrictionConstraint.md)：车辆区域访问限制约束，即车辆不允许跨区运输。
  17. [DurationConstraint](DurationConstraint.md)：工作时长约束，即车辆的从仓库出发到回到仓库的时长不能超过给定的限制。
  18. [DurationConstraintPD](DurationConstraintPD.md)：取货送货问题的工作时长约束。
@@ -42,7 +42,7 @@
  6. [MaximizeProfitPD](MaximizeProfitPD.md)：针对取货送货问题，最大化节点访问收益。
  7. [MinimizeChargeCost](MinimizeChargeCost.md)：在电动车路径问题中，最小化充电成本，车辆每访问以此充电站即需要支付一个固定数量的成本。
  8. MinimizeClusterCost：最小化路径上任意两个节点的欧氏距离平方之和，目的是尽可能让同一条路径上的点聚集在一起。
- 9. [MinimizeCrossPenalty](MinimizeCrossPenalty.md)：最小化车辆跨区访问的成本，车辆每进行一次跨区操作，就要支付相应的成本。
+ 9. [MinimizeCrossPenalty](MinimizeCrossPenalty.md)：最小化车辆跨区访问的成本，车辆一旦跨区，跨区成本是车辆的行驶里程，否则，跨区成本为0。
  10. [MinimizeDepotDependentCost](MinimizeDepotDependentCost.md)：最小化车辆行驶距离成本，不同仓库出发的车辆的单位行驶成本有所不同。
  11. MinimizeDepotPairCost：最小化车辆访问节点的成本，车辆从某一个仓库出发访问一个节点需要支付一个成本，不同的仓库出发的车辆访问同一个节点的成本有所不同。
  12. [MinimizeLoadDependentCost](MinimizeLoadDependentCost.md)：路径成本和车辆载货量相关。给定路径(0, 1, 2, ..., n, 0)，假定c\[\]\[\]是成本矩阵，q是车辆的载货量，那么路径成本是q * max<sub>i = 1,...,n</sub>c\[i\]\[q\]。
