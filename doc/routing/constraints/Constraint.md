@@ -31,7 +31,7 @@
  27. [MultiTripEnableConstraint](MultiTripEnableConstraint.md)<sup>Ⓜ</sup>：只允许某些特定的车型执行多趟运输（Multi-Trip）。
  28. [DistancePruneConstraint](DistancePruneConstraint.md)<sup>Ⓜ</sup>：没有实际意义，作用是加速邻域搜索速度。
  29. DistancePruneConstraintPD<sup>Ⓜ</sup>：取货送货问题，没有实际意义，作用是加速邻域搜索速度。
- 30. PackingConstraint<sup>Ⓜ</sup>：三维装载约束，通过该约束可以将车辆路径问题和三维装箱问题结合在一起。
+ 30. [PackingConstraint](PackingConstraint.md)<sup>Ⓜ</sup>：三维装载约束，通过该约束可以将车辆路径问题和三维装箱问题结合在一起。
 
 目前求解器已经集成的目标函数包括：
 
