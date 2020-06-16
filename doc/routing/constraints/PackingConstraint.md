@@ -13,7 +13,6 @@
 		"Box": {},
 		"Bin": {},
 		"Tray": {},
-		"Sequence": [],
 		"Constraint": {},
 		"BlockSortingRule": {}
 	}
