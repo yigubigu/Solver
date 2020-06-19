@@ -6,6 +6,7 @@
  2. [CapacityConstraintPD](CapacityConstraintPD.md)<sup>Ⓜ</sup>：取货送货问题（Pickup and Delivery）的容量约束。
  3. [CapacityConstraintSimPD](CapacityConstraintSimPD.md)<sup>Ⓜ</sup>：同时取货送货容量约束，即每一个节点同时需要取货和送货，取货的货物来自于仓库，要送走的货物则是送回仓库。
  4. [TimeWindowConstraint](TimeWindowConstraint.md)<sup>Ⓜ</sup>：时间窗约束。
+ 5. [MultiTimeWindowConstraint](MultiTimeWindowConstraint.md)<sup>Ⓜ</sup>：多时间窗约束，即允许一个节点同时有多个时间窗。
  5. [GeneralTimeWindowConstraint](GeneralTimeWindowConstraint.md)<sup>Ⓜ</sup>：通用时间窗约束，允许顾客节点有多个服务时间窗、仓库有多个提货时间窗、不同的车型有不同的工作时间窗和行驶速度。
  6. [TimeWindowConstraintPD](TimeWindowConstraintPD.md)<sup>Ⓜ</sup>：取货送货问题的时间窗约束。
  7. TimeWindowConstraintTD<sup>Ⓜ</sup>：考虑车辆行驶时间可变（Time Dependent Travel Time）的时间窗约束，两点i和j之间的行驶时间t<sub>i,j</sub>(a)是车辆从i离开的时间a的分段线性函数，并且满足先进先出（FIFO）规则。
