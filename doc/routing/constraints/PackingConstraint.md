@@ -15,11 +15,15 @@
 		"Tray": {},
 		"Constraint": {},
 		"BlockSortingRule": {}
-	}
+	},
+	"SplitOrder": true,
+	"SplitVehicleType": [0, 1]
 }
 ```
 * Name: String，名称。
 * Data: HashMap，装箱相关的问题数据，每一项的介绍在[这里](../../../README.md#装箱问题)。
+* SplitOrder\*：Boolean，是否进行拆单，默认取false。
+* SplitVehicleType\*：Integer列表，允许进行拆单的车型，默认是全部的车型。
 
 ## 返回JSON格式
 ```json
