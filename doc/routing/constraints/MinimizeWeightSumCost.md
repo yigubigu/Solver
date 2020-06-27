@@ -14,7 +14,7 @@
 		"1": 10,
 		"2": 20,
 	},
-	"UnitCosts": {
+	"Units": {
 		"0": 1.1,
 		"1": 2.0
 	},
@@ -29,7 +29,7 @@
 * NumberOfNodes: Integer，节点个数。
 * NumberOfVehicles：Integer，车辆种类数量。
 * Demands：一维Double数组，每个节点的需求。
-* UnitCosts：一维Double数组，每种车型的单位重量成本。
+* Units：一维Double数组，每种车型的单位重量成本。
 * LowerBounds：一维Double数组，每种车型的成本上限。
 * Coefficient\*：Double，乘到成本的系数，默认取1。
 
