@@ -17,7 +17,7 @@
  13. TimeWindowWaitConstraintPD<sup>Ⓜ</sup>：针对取货送货问题，车辆到达一个点时需要考虑一个服务的等待时间。假如车辆连续经过多个点都对应同一个物理点，那么只需要在第一个点考虑等待时间。该约束的应用场景类似快递配送，快递员到达一个地点后打电话通知多个顾客到约定地点取货，从打电话到顾客来取件的时间就对应服务等待时间。
  14. [TimeWindowConstraintLoad](TimeWindowConstraintLoad.md)：考虑装货时间的时间窗约束，车辆在出发前需要将配送的货物装车，而装货时间是货量的一个线性函数。同时，装货的设备（包括人工）假如足够多，每辆车之间装车操作相对独立。
  15. [TimeWindowQueueConstraint](TimeWindowQueueConstraint.md)<sup>Ⓜ</sup>：考虑货物加工时间的时间窗约束，货物在装车前都需要进行加工，每个顾客的货物加工时间固定，加工的设备只有一台，所以车辆有可能由于需要等待加工的货物装车而发生排队的情况。
- 16. [imeWindowQueueReleaseConstraint](TimeWindowQueueReleaseConstraint.md)<sup>Ⓜ</sup>：考虑货物开始时间和加工时间的时间窗约束，是 TimeWindowQueueConstraint的通用版本。在该约束中，货物有一个允许开始加工时间（Release time），在规划货物加工顺序的时候需要考虑货物的允许开始加工时间。
+ 16. [TimeWindowQueueReleaseConstraint](TimeWindowQueueReleaseConstraint.md)<sup>Ⓜ</sup>：考虑货物开始时间和加工时间的时间窗约束，是 TimeWindowQueueConstraint的通用版本。在该约束中，货物有一个允许开始加工时间（Release time），在规划货物加工顺序的时候需要考虑货物的允许开始加工时间。
  17. [CrossDepotConstraintPD](CrossDepotConstraintPD.md)：节点中的某些节点对应实际的物理仓库，车辆从物理仓库出发就算一趟，而车辆行驶的趟数不能超过给定的限制。
  18. [DepotVisitConstraint](DepotVisitConstraint.md)<sup>Ⓜ</sup>：在该约束中，从某个仓库出发的车辆只允许访问某些节点。
  19. [DestinationConstraint](DestinationConstraint.md)：车辆和顾客都属于某个区域，车辆服务的最后一个顾客必须和车辆属于同一个区域。
