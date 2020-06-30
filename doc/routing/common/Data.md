@@ -76,18 +76,19 @@ Data用于放置问题中会被重复使用的数据。例如，NumberOfNodes表
 	"BooleanMatrices":{}
 }
 ```
-* NumberOfNodes: Integer，节点个数。
-* NumberOfVehicles：Integer，车型种类数目。
-* FirstPickupNode: Integer，首个取货点的编号。
-* NumberOfPickupNodes：Integer，取货点的数量。
-* IntArrays：存放一维Integer数组的数组。
+* NumberOfNodes\*: Integer，节点个数。对于取货送货问题不需要提供。
+* NumberOfVehicles\*：Integer，车型种类数目。
+* FirstPickupNode\*: Integer，首个取货点的编号。对于非取货送货问题不需要提供。
+* NumberOfPickupNodes\*：Integer，取货点的数量。对于非取货送货问题不需要提供。
+* IntArrays\*：存放一维Integer数组的数组。
 	+ Size：Integer，数组的大小。
-* DoubleArrays：存放一维Double数组的数组。
-* BooleanArrays：存放一维Boolean数组的数组。
-* IntMatrices：存放二维Integer数组的数组。
+* DoubleArrays\*：存放一维Double数组的数组。
+* BooleanArray\*s：存放一维Boolean数组的数组。
+* IntMatrices\*：存放二维Integer数组的数组。
 	+ Size：Integer，数组第一维的大小。
 		+ Size：Integer，数组第二维的大小。
-* DoubleMatrices：存放二维Double数组的数组。
-* BooleanMatrices：存放二维Boolean数组的数组。
+* DoubleMatrices\*：存放二维Double数组的数组。
+* BooleanMatrices\*：存放二维Boolean数组的数组。
 
 **注意**：在Data这项里，数组的每一个维度都必须包含一个Size项表明该维度的元素的个数，而在其他地方的数组则不需要Size项。
+
