@@ -64,7 +64,7 @@
 * Name: String，名称。
 * NumberOfNodes: Integer，节点个数。
 * NumberOfVehicles：Integer，车辆种类数量。
-* Speed\*：一维Double数组，车辆的行驶速度，对于所有车型默认都是1。
+* Speed\*：一维Double数组，车辆的行驶速度，对于所有车型默认都是1。如果不同的车型的速度不一样，会导致算子[CrossBase](../operators/CrossBase.md)、[CrossPD](../operators/CrossPD.md)以及[CrossSD](../operators/CrossSD.md)禁用。
 * ServiceTimes：一维Double数组，节点的服务时长。
 * NodeTimeWindows: 一维Double列表数组，节点的服务时间窗。对于仓库来说，节点的时间窗是指车辆在仓库提货的时间窗。
 * VehicleTimeWindows: 一维Double列表数组，每种车型的工作时间窗，即车辆允许离开仓库的最早时间和必须回到仓库的最晚时间。
