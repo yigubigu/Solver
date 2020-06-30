@@ -57,7 +57,7 @@
 * Name: String，名称。
 * NumberOfNodes: Integer，节点个数。
 * NumberOfVehicles\*：Integer，车辆种类数量。
-* Speed\*：一维Double数组，车辆的行驶速度，对于所有车型默认都是1。如果不同的车型的速度不一样，会导致算子[CrossBase](../operators/CrossBase.md)、[CrossPD](../operators/CrossPD.md)以及[CrossSD](../operators/CrossSD.md)禁用。
+* Speed\*：一维Double数组，车辆的行驶速度，对于所有车型默认都是1。如果不同的车型的速度不一样，会导致算子[CrossBase](../operators/CrossBase.md)、[CrossPD](../operators/CrossPD.md)以及[CrossSD](../operators/CrossSD.md)不能作用于不同车型的路径。
 * LatestStartTimes：一维Double数组，节点的最晚服务开始时间。
 * EarlistStartTimes：一维Double数组，节点的最早服务开始时间。
 * ServiceTimes：一维Double数组，节点的服务时长。
