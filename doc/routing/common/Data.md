@@ -90,3 +90,4 @@ Data用于放置问题中会被重复使用的数据。例如，NumberOfNodes表
 * DoubleMatrices：存放二维Double数组的数组。
 * BooleanMatrices：存放二维Boolean数组的数组。
 
+**注意**：在Data这项里，数组的每一个维度都必须包含一个Size项表明该维度的元素的个数，而在其他地方的数组则不需要Size项。
