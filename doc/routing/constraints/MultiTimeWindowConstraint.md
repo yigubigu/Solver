@@ -60,7 +60,7 @@
 * Name: String，名称。
 * NumberOfNodes: Integer，节点个数。
 * NumberOfVehicles\*：Integer，车辆种类数量。
-* Speed\*：一维Double数组，车辆的行驶速度，对于所有车型默认都是1。如果不同的车型的速度不一样，会导致算子[CrossBase](../operators/CrossBase.md)、[CrossPD](../operators/CrossPD.md)以及[CrossSD](../operators/CrossSD.md)禁用。
+* Speed\*：一维Double数组，车辆的行驶速度，对于所有车型默认都是1。如果不同的车型的速度不一样，会导致算子[CrossBase](../operators/CrossBase.md)、[CrossPD](../operators/CrossPD.md)以及[CrossSD](../operators/CrossSD.md)不能作用于不同车型的路径。
 * ServiceTimes：一维Double数组，节点的服务时长。
 * TimeWindows: 一维Double列表数组，节点的服务时间窗。
 * GroupServiceTimes\*：一维Double数组，表示节点分组对应的服务时间。假如车辆连续访问多个属于同一个分组的节点，只计算第一个节点的分组服务时间。例如，路径0(0) - 1(1) - 2(1) - 3(2) - 4(2) - 0(0)，其中阔号的数组表示节点的分组，只计算节点1和节点3的分组服务时间。
