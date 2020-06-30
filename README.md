@@ -70,7 +70,7 @@
 * [Parameter](doc/routing/common/Parameter.md): 算法参数。
 * [Constraint](doc/routing/constraints/Constraint.md): 问题约束条件和目标函数列表。
 * [ConstructionOperator](doc/routing/operators/ConstructionOperator.md): 构造初始解算子。
-* [Greey](doc/routing/common/Greedy.md): 提供可用的车辆信息。
+* [Greedy](doc/routing/common/Greedy.md): 提供可用的车辆信息。
 * [LocalSearchOperator](doc/routing/operators/LocalSearchOperator.md): 邻域搜索算子。
 * [InitialSolution](doc/routing/common/InitialSolution.md): 指定的初始解，既可以是一个完整的合法解，也可以是一个部分合法解。
 * [Nodes](doc/routing/common/Nodes.md): 指定的初始解中尚未服务的顾客节点，假如InitialSolution未指定，则Nodes包含所有需要被服务的顾客节点。
