@@ -83,7 +83,7 @@ Data用于放置问题中会被重复使用的数据。例如，NumberOfNodes表
 * IntArrays\*：存放一维Integer数组的数组。
 	+ Size：Integer，数组的大小。
 * DoubleArrays\*：存放一维Double数组的数组。
-* BooleanArray\*s：存放一维Boolean数组的数组。
+* BooleanArrays\*：存放一维Boolean数组的数组。
 * IntMatrices\*：存放二维Integer数组的数组。
 	+ Size：Integer，数组第一维的大小。
 		+ Size：Integer，数组第二维的大小。
