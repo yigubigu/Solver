@@ -107,10 +107,12 @@
 	"Sequence":[
 		{
 			"ID": 0,
+			"Number": 0,
 			"Load": 0
 		},
 		{
 			"ID": 1,
+			"Number": 2,
 			"Load": 10
 		}
 	]
@@ -121,7 +123,8 @@
 * Feasibility：Boolean，路径是否满足约束。
 * Cost：Double，违反的惩罚成本。
 * Sequence：每个节点的信息列表：
-	+ "ID": Integer，节点的编号。
-	+ "Load": Double，车辆的载货量。
+	+ ID: Integer，节点的编号。
+	+ Number\*: Integer，节点货物件数。当采用第一种json格式调用时，这项存在，否则这项不存在。
+	+ Load: Double，车辆的载货量。
 
 假如一个容量约束考虑多个维度，那么在返回结果时会也会包含多个容量约束json对象，数量和约束的维度数量一致。
