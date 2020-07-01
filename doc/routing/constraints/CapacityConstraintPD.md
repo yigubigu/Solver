@@ -125,6 +125,6 @@
 * Sequence：每个节点的信息列表：
 	+ ID：Integer，节点的编号。
 	+ Type：String，节点的类型，有Pickup、Delivery和Other三种。
-	+ Number\*: Integer，节点货物件数。当采用第一种json格式调用时，这项存在，否则这项不存在。
+	+ Number\*: Integer，车辆载货件数。当采用第一种json格式调用时，这项存在，否则这项不存在。
 	+ Load: Double，车辆的载货量。
 
