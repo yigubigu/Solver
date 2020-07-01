@@ -2,7 +2,7 @@
 
 ## 描述
 
-见[CapacityConstraint](CapacityConstraintPD.md)。
+见[CapacityConstraint](CapacityConstraint.md)。
 
 ## 调用JSON格式
 
