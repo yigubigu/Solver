@@ -63,7 +63,8 @@
 	"Greedy":{},
 	"LocalSearchOperator": [],
 	"InitialSolution": {},
-	"Nodes": {}
+	"Nodes": {},
+	"Algorithm":[]
 }
 ```
 * [Data](doc/routing/common/Data.md): 数据容器。
@@ -74,6 +75,7 @@
 * [LocalSearchOperator](doc/routing/operators/LocalSearchOperator.md): 邻域搜索算子。
 * [InitialSolution](doc/routing/common/InitialSolution.md): 指定的初始解，既可以是一个完整的合法解，也可以是一个部分合法解。
 * [Nodes](doc/routing/common/Nodes.md): 指定的初始解中尚未服务的顾客节点，假如InitialSolution未指定，则Nodes包含所有需要被服务的顾客节点。
+* [Algorithm](doc/routing/common/Algorithm.md)\*：指定求解器运行的算法，如果缺省，则默认采用禁忌搜索算法。
 
 
 
