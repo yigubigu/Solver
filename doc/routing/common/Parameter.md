@@ -17,7 +17,9 @@
     "TabuSearch_MinTabuTenure": 10,
     "TabuSearch_MinShakeTenure": 100,
     "TabuSearch_MinShakeIteration ": 20,
-    "TabuSearch_Keep": false
+    "TabuSearch_Keep": false,
+    "SuccessiveApproximate_MaxIteration": 100,
+    "ALNS_MaxIteration": 100
   }
 ```
 * MultiThread\*：Boolean，程序是否多线程运行，默认取false。
@@ -29,4 +31,6 @@
 * TabuSearch_MinTabuTenure\*：Integer，禁忌搜索最小禁忌周长，默认取0。
 * TabuSearch_MinShakeTenure\*：Integer，禁忌搜索扰动周期，默认取20。
 * TabuSearch_MinShakeIteration\*：Integer，禁忌搜索扰动次数，默认取100。
-* TabuSearch_Keep：Boolean\*，禁忌搜索是否保存空车辆，默认取false。
+* TabuSearch_Keep：Boolean\*: 禁忌搜索是否保存空车辆，默认取false。
+* SuccessiveApproximate_MaxIteration\*: 连续逼近算法迭代次数，默认取1000。
+* ALNS_MaxIteration\*: 自适应大规模邻域搜索迭代次数，默认取1000.
