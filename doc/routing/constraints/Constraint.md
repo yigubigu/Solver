@@ -52,7 +52,7 @@
  12. [MinimizeLoadDependentCost](MinimizeLoadDependentCost.md)<sup>Ⓜ</sup>：路径成本和车辆载货量相关。给定路径(0, 1, 2, ..., n, 0)，假定c\[\]\[\]是成本矩阵，q是车辆的载货量，那么路径成本是q * max<sub>i = 1,...,n</sub>c\[i\]\[q\]。
  13. MinimizeStartEndCost：用于服务网络规划问题（Service Network Design Problem），表示从终点返回起点的成本。
  14. [MinimizeTypeSumCost](MinimizeTypeSumCost.md)<sup>Ⓜ</sup>：车辆经过的顾客的需求可以分为不同的种类，每种类型的需求单位成本不一样，路径总成本是所有类型的需求成本之和（单位成本 * 需求量）。
- 15. [MinimizeWeightSumCost](MinimizeWeightSumCost.md)：用q表示车中，u表示单位重量成本，mq表示一个常数，那么路径的成本是u * max(q, mq)。
+ 15. [MinimizeWeightSumCost](MinimizeWeightSumCost.md)<sup>Ⓜ</sup>：用q表示车重，u表示单位重量成本，lb表示车重的下限，ub表示车重的上限，那么路径的成本是u * min(max(q, lb), ub)。
  16. [MinimizeWholeVehicleCost](MinimizeWholeVehicleCost.md)：用d表示路径的距离，u表示单位行驶成本，ub表示零担成本，那么路径的成本是min(u * d, ub)。
  17. MinimizeDepotBalanceCost<sup>Ⓜ</sup>：顾客的订单来自于不同的仓库，当配送车辆出发的仓库和订单仓库不一致时，需要首先将订单运输到发车的仓库，也就是需要在两个仓库之间建立连接，这个连接的建立只需要支付一次性固定成本。
  18. MinimizeInventoryCost<sup>Ⓜ</sup>：最小化节点的库存成本，节点有一个库存成本，等于（最晚开始时间-送达时间）* 系数。该目标函数一般用于排产问题。
